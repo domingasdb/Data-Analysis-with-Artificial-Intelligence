@@ -1,0 +1,1466 @@
+,price_classification,actual_price,discounted_price,rating_classification,category0,category1,percent
+0,more than 500,1099.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6369426751592356
+1,between 50 and 500,349.0,199.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.4297994269340974
+2,more than 500,1899.0,199.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8952080042127436
+3,more than 500,699.0,329.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5293276108726752
+4,between 50 and 500,399.0,154.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6140350877192983
+5,more than 500,1000.0,149.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.851
+6,between 50 and 500,499.0,176.63,Good,Computers&Accessories,Accessories&Peripherals,-0.6460320641282565
+7,between 50 and 500,299.0,229.0,Good,Computers&Accessories,Accessories&Peripherals,-0.23411371237458195
+8,more than 500,999.0,499.0,Good,Computers&Accessories,NetworkingDevices,-0.5005005005005005
+9,between 50 and 500,299.0,199.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.33444816053511706
+10,between 50 and 500,339.0,154.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5457227138643068
+11,more than 500,799.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6257822277847309
+12,more than 500,700.0,219.0,Good,Electronics,"HomeTheater,TV&Video",-0.6871428571428572
+13,more than 500,899.0,350.0,Good,Computers&Accessories,Accessories&Peripherals,-0.610678531701891
+14,between 50 and 500,399.0,159.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6015037593984962
+15,between 50 and 500,399.0,349.0,Good,Computers&Accessories,Accessories&Peripherals,-0.12531328320802004
+16,more than 500,24999.0,13999.0,Good,Electronics,"HomeTheater,TV&Video",-0.4400176007040282
+17,between 50 and 500,399.0,249.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.37593984962406013
+18,between 50 and 500,499.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6012024048096193
+19,more than 500,21990.0,13490.0,Good,Electronics,"HomeTheater,TV&Video",-0.3865393360618463
+20,more than 500,1799.0,970.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4608115619788771
+21,between 50 and 500,499.0,279.0,Fair,Electronics,"HomeTheater,TV&Video",-0.4408817635270541
+22,more than 500,22900.0,13490.0,Good,Electronics,"HomeTheater,TV&Video",-0.4109170305676856
+23,between 50 and 500,199.0,59.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7035175879396985
+24,more than 500,19990.0,11499.0,Good,Electronics,"HomeTheater,TV&Video",-0.4247623811905953
+25,more than 500,699.0,199.0,Good,Electronics,"HomeTheater,TV&Video",-0.7153075822603719
+26,more than 500,19999.0,14999.0,Good,Electronics,"HomeTheater,TV&Video",-0.2500125006250313
+27,between 50 and 500,399.0,299.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.2506265664160401
+28,more than 500,1999.0,970.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5147573786893447
+29,more than 500,999.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7007007007007007
+30,more than 500,750.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7346666666666667
+31,between 50 and 500,499.0,179.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6412825651302605
+32,more than 500,1099.0,389.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6460418562329391
+33,more than 500,599.0,599.0,Good,Computers&Accessories,Accessories&Peripherals,0.0
+34,more than 500,999.0,199.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8008008008008008
+35,more than 500,666.66,99.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8514985149851498
+36,more than 500,1900.0,899.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5268421052631579
+37,more than 500,999.0,199.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8008008008008008
+38,more than 500,45999.0,32999.0,Good,Electronics,"HomeTheater,TV&Video",-0.28261483945303156
+39,more than 500,1999.0,970.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5147573786893447
+40,more than 500,695.0,209.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6992805755395683
+41,more than 500,34999.0,19999.0,Good,Electronics,"HomeTheater,TV&Video",-0.428583673819252
+42,more than 500,1099.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6369426751592356
+43,more than 500,1599.0,999.0,Good,Computers&Accessories,NetworkingDevices,-0.37523452157598497
+44,between 50 and 500,199.0,59.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7035175879396985
+45,more than 500,999.0,333.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6666666666666666
+46,more than 500,1208.0,507.0,Good,Computers&Accessories,NetworkingDevices,-0.5802980132450332
+47,between 50 and 500,475.0,309.0,Good,Electronics,"HomeTheater,TV&Video",-0.3494736842105263
+48,more than 500,999.0,399.0,Fair,Electronics,"HomeTheater,TV&Video",-0.6006006006006006
+49,between 50 and 500,395.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4962025316455696
+50,more than 500,2199.0,1199.0,Good,Computers&Accessories,NetworkingDevices,-0.45475216007276037
+51,between 50 and 500,500.0,179.0,Good,Computers&Accessories,Accessories&Peripherals,-0.642
+52,more than 500,2100.0,799.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6195238095238095
+53,more than 500,12999.0,6999.0,Good,Electronics,"HomeTheater,TV&Video",-0.46157396722824834
+54,between 50 and 500,349.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4297994269340974
+55,between 50 and 500,499.0,230.0,Fair,Electronics,"HomeTheater,TV&Video",-0.5390781563126252
+56,more than 500,1399.0,649.0,Good,Computers&Accessories,NetworkingDevices,-0.536097212294496
+57,more than 500,21999.0,15999.0,Good,Electronics,"HomeTheater,TV&Video",-0.2727396699849993
+58,more than 500,1499.0,348.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7678452301534356
+59,between 50 and 500,349.0,154.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5587392550143266
+60,more than 500,799.0,179.0,Fair,Electronics,"HomeTheater,TV&Video",-0.7759699624530664
+61,more than 500,47900.0,32990.0,Good,Electronics,"HomeTheater,TV&Video",-0.31127348643006264
+62,more than 500,999.0,139.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8608608608608609
+63,more than 500,845.0,329.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6106508875739645
+64,more than 500,24999.0,13999.0,Good,Electronics,"HomeTheater,TV&Video",-0.4400176007040282
+65,more than 500,1400.0,309.0,Good,Electronics,"HomeTheater,TV&Video",-0.7792857142857142
+66,more than 500,699.0,263.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6237482117310443
+67,more than 500,14990.0,7999.0,Good,Electronics,"HomeTheater,TV&Video",-0.46637758505670446
+68,more than 500,2999.0,1599.0,Good,Electronics,"HomeTheater,TV&Video",-0.4668222740913638
+69,more than 500,700.0,219.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6871428571428572
+70,more than 500,899.0,349.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6117908787541713
+71,more than 500,599.0,349.0,Good,Computers&Accessories,Accessories&Peripherals,-0.41736227045075125
+72,more than 500,42999.0,26999.0,Good,Electronics,"HomeTheater,TV&Video",-0.372101676783181
+73,between 50 and 500,499.0,115.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7695390781563126
+74,more than 500,999.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6006006006006006
+75,between 50 and 500,499.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6012024048096193
+76,between 50 and 500,399.0,179.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5513784461152882
+77,more than 500,30990.0,10901.0,Good,Electronics,"HomeTheater,TV&Video",-0.6482413681832849
+78,between 50 and 500,499.0,209.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5811623246492986
+79,more than 500,3999.0,1434.0,Fair,Electronics,"HomeTheater,TV&Video",-0.641410352588147
+80,more than 500,1099.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6369426751592356
+81,between 50 and 500,249.0,139.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.44176706827309237
+82,more than 500,19125.0,7299.0,Fair,Electronics,"HomeTheater,TV&Video",-0.6183529411764705
+83,more than 500,799.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6257822277847309
+84,more than 500,1299.0,325.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7498075442648191
+85,more than 500,39999.0,29999.0,Good,Electronics,"HomeTheater,TV&Video",-0.2500062501562539
+86,more than 500,40990.0,27999.0,Good,Electronics,"HomeTheater,TV&Video",-0.3169309587704318
+87,more than 500,52900.0,30990.0,Good,Electronics,"HomeTheater,TV&Video",-0.41417769376181474
+88,more than 500,999.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.8008008008008008
+89,more than 500,1999.0,649.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6753376688344173
+90,more than 500,800.0,269.0,Fair,Computers&Accessories,NetworkingDevices,-0.66375
+91,more than 500,31999.0,24999.0,Good,Electronics,"HomeTheater,TV&Video",-0.21875683615112973
+92,more than 500,699.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5722460658082976
+93,more than 500,999.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.8008008008008008
+94,more than 500,40990.0,18990.0,Good,Electronics,"HomeTheater,TV&Video",-0.5367162722615272
+95,between 50 and 500,349.0,290.0,Fair,Computers&Accessories,NetworkingDevices,-0.16905444126074498
+96,more than 500,799.0,249.0,Fair,Electronics,"HomeTheater,TV&Video",-0.688360450563204
+97,more than 500,999.0,345.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6546546546546547
+98,more than 500,1899.0,1099.0,Good,Computers&Accessories,NetworkingDevices,-0.421274354923644
+99,more than 500,1499.0,719.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5203468979319547
+100,more than 500,1499.0,349.0,Good,Electronics,"HomeTheater,TV&Video",-0.7671781187458305
+101,more than 500,1809.0,849.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5306799336650083
+102,more than 500,899.0,299.0,Fair,Electronics,"HomeTheater,TV&Video",-0.6674082313681868
+103,more than 500,29999.0,21999.0,Good,Electronics,"HomeTheater,TV&Video",-0.26667555585186176
+104,more than 500,999.0,349.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6506506506506506
+105,more than 500,999.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6006006006006006
+106,more than 500,1299.0,449.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6543494996150885
+107,more than 500,999.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7007007007007007
+108,more than 500,65000.0,37999.0,Good,Electronics,"HomeTheater,TV&Video",-0.4154
+109,more than 500,800.0,99.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.87625
+110,more than 500,20000.0,7390.0,Good,Electronics,"HomeTheater,TV&Video",-0.6305
+111,more than 500,999.0,273.1,Good,Computers&Accessories,Accessories&Peripherals,-0.7266266266266266
+112,more than 500,23990.0,15990.0,Good,Electronics,"HomeTheater,TV&Video",-0.3334722801167153
+113,more than 500,999.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6006006006006006
+114,more than 500,1999.0,399.0,Good,Electronics,"HomeTheater,TV&Video",-0.80040020010005
+115,between 50 and 500,399.0,210.0,Good,Computers&Accessories,Accessories&Peripherals,-0.47368421052631576
+116,more than 500,1999.0,1299.0,Fair,Electronics,"HomeTheater,TV&Video",-0.3501750875437719
+117,more than 500,999.0,347.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6526526526526526
+118,more than 500,999.0,149.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8508508508508509
+119,more than 500,899.0,228.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.746384872080089
+120,more than 500,1999.0,1599.0,Good,Computers&Accessories,Accessories&Peripherals,-0.2001000500250125
+121,more than 500,3999.0,1499.0,Fair,Electronics,"HomeTheater,TV&Video",-0.6251562890722681
+122,more than 500,15999.0,8499.0,Good,Electronics,"HomeTheater,TV&Video",-0.46877929870616913
+123,more than 500,44990.0,20990.0,Good,Electronics,"HomeTheater,TV&Video",-0.5334518781951545
+124,more than 500,44999.0,32999.0,Good,Electronics,"HomeTheater,TV&Video",-0.2666725927242828
+125,more than 500,1700.0,799.0,Good,Electronics,"HomeTheater,TV&Video",-0.53
+126,more than 500,595.0,229.0,Good,Electronics,"HomeTheater,TV&Video",-0.6151260504201681
+127,more than 500,27990.0,9999.0,Good,Electronics,"HomeTheater,TV&Video",-0.6427652733118971
+128,more than 500,599.0,349.0,Good,Electronics,"HomeTheater,TV&Video",-0.41736227045075125
+129,more than 500,1200.0,489.0,Good,Electronics,"HomeTheater,TV&Video",-0.5925
+130,more than 500,34990.0,23999.0,Good,Electronics,"HomeTheater,TV&Video",-0.3141183195198628
+131,more than 500,999.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6006006006006006
+132,more than 500,1299.0,349.0,Fair,Electronics,HomeAudio,-0.7313317936874519
+133,between 50 and 500,299.0,179.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.4013377926421405
+134,more than 500,1500.0,689.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5406666666666666
+135,more than 500,49990.0,30990.0,Good,Electronics,"HomeTheater,TV&Video",-0.38007601520304063
+136,more than 500,931.0,249.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7325456498388829
+137,more than 500,2399.0,999.0,Excellent,Electronics,"HomeTheater,TV&Video",-0.5835764902042517
+138,between 50 and 500,399.0,399.0,Fair,Electronics,"HomeTheater,TV&Video",0.0
+139,more than 500,699.0,349.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5007153075822603
+140,more than 500,1099.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6369426751592356
+141,more than 500,2999.0,1699.0,Good,Computers&Accessories,NetworkingDevices,-0.43347782594198064
+142,more than 500,1099.0,655.0,Fair,Electronics,"HomeTheater,TV&Video",-0.40400363967242947
+143,more than 500,1339.0,749.0,Good,Computers&Accessories,NetworkingDevices,-0.4406273338312173
+144,more than 500,12999.0,9999.0,Good,Electronics,"HomeTheater,TV&Video",-0.23078698361412417
+145,between 50 and 500,499.0,195.0,Fair,Electronics,"HomeTheater,TV&Video",-0.6092184368737475
+146,more than 500,2100.0,999.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5242857142857142
+147,more than 500,899.0,499.0,Good,Computers&Accessories,Accessories&Peripherals,-0.44493882091212456
+148,more than 500,599.0,416.0,Good,Electronics,"HomeTheater,TV&Video",-0.3055091819699499
+149,more than 500,699.0,368.0,Good,Computers&Accessories,Accessories&Peripherals,-0.47353361945636624
+150,more than 500,65000.0,29990.0,Good,Electronics,"HomeTheater,TV&Video",-0.5386153846153846
+151,more than 500,1099.0,339.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6915377616014559
+152,more than 500,20900.0,15490.0,Good,Electronics,"HomeTheater,TV&Video",-0.25885167464114833
+153,more than 500,1299.0,499.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6158583525789069
+154,between 50 and 500,399.0,249.0,Fair,Computers&Accessories,NetworkingDevices,-0.37593984962406013
+155,more than 500,799.0,399.0,Good,Electronics,"HomeTheater,TV&Video",-0.5006257822277848
+156,more than 500,1999.0,1499.0,Good,Computers&Accessories,Accessories&Peripherals,-0.25012506253126565
+157,more than 500,15990.0,9490.0,Fair,Electronics,"HomeTheater,TV&Video",-0.4065040650406504
+158,more than 500,1499.0,637.0,Good,Electronics,"HomeTheater,TV&Video",-0.5750500333555704
+159,more than 500,899.0,399.0,Fair,Electronics,"HomeTheater,TV&Video",-0.5561735261401557
+160,more than 500,1600.0,1089.0,Fair,Electronics,"HomeTheater,TV&Video",-0.319375
+161,more than 500,999.0,339.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6606606606606606
+162,between 50 and 500,499.0,149.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7014028056112225
+163,between 50 and 500,399.0,149.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6265664160401002
+164,more than 500,849.0,599.0,Good,Computers&Accessories,Accessories&Peripherals,-0.2944640753828033
+165,more than 500,1199.0,299.0,Fair,Electronics,"HomeTheater,TV&Video",-0.7506255212677231
+166,more than 500,1299.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6928406466512702
+167,more than 500,1999.0,339.0,Fair,Electronics,"HomeTheater,TV&Video",-0.8304152076038019
+168,more than 500,22990.0,12499.0,Good,Electronics,"HomeTheater,TV&Video",-0.45632883862548934
+169,between 50 and 500,399.0,249.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.37593984962406013
+170,more than 500,2499.0,1399.0,Good,Computers&Accessories,NetworkingDevices,-0.44017607042817125
+171,more than 500,47990.0,32999.0,Good,Electronics,"HomeTheater,TV&Video",-0.3123775786622213
+172,between 50 and 500,399.0,149.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6265664160401002
+173,more than 500,999.0,325.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6746746746746747
+174,more than 500,1999.0,399.0,Excellent,Computers&Accessories,Accessories&Peripherals,-0.80040020010005
+175,between 50 and 500,499.0,199.0,Fair,Computers&Accessories,NetworkingDevices,-0.6012024048096193
+176,between 50 and 500,299.0,88.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.705685618729097
+177,more than 500,1099.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6369426751592356
+178,between 50 and 500,199.0,57.89,Fair,Computers&Accessories,Accessories&Peripherals,-0.7090954773869348
+179,more than 500,1999.0,799.0,Fair,Electronics,"HomeTheater,TV&Video",-0.6003001500750376
+180,between 50 and 500,499.0,205.0,Fair,Electronics,"HomeTheater,TV&Video",-0.5891783567134269
+181,more than 500,699.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5722460658082976
+182,more than 500,999.0,849.0,Good,Computers&Accessories,Accessories&Peripherals,-0.15015015015015015
+183,more than 500,1999.0,949.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5252626313156579
+184,more than 500,1200.0,499.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5841666666666666
+185,between 50 and 500,485.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.3835051546391753
+186,more than 500,1999.0,949.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5252626313156579
+187,more than 500,1099.0,379.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6551410373066424
+188,more than 500,18990.0,8990.0,Fair,Electronics,"HomeTheater,TV&Video",-0.526592943654555
+189,more than 500,1999.0,486.0,Good,Electronics,"HomeTheater,TV&Video",-0.7568784392196098
+190,more than 500,11000.0,5699.0,Good,Electronics,"HomeTheater,TV&Video",-0.4819090909090909
+191,more than 500,1999.0,709.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6453226613306653
+192,more than 500,70900.0,47990.0,Good,Electronics,"HomeTheater,TV&Video",-0.3231311706629055
+193,more than 500,1199.0,299.0,Fair,Electronics,"HomeTheater,TV&Video",-0.7506255212677231
+194,more than 500,599.0,320.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4657762938230384
+195,more than 500,549.0,139.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7468123861566485
+196,between 50 and 500,249.0,129.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.4819277108433735
+197,more than 500,35999.0,24999.0,Good,Electronics,"HomeTheater,TV&Video",-0.30556404344565125
+198,more than 500,1699.0,999.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4120070629782225
+199,between 50 and 500,499.0,225.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5490981963927856
+200,more than 500,2999.0,547.0,Good,Electronics,"HomeTheater,TV&Video",-0.8176058686228743
+201,more than 500,699.0,259.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6294706723891274
+202,more than 500,699.0,239.0,Good,Electronics,"HomeTheater,TV&Video",-0.6580829756795422
+203,more than 500,999.0,349.0,Fair,Electronics,"HomeTheater,TV&Video",-0.6506506506506506
+204,more than 500,599.0,467.0,Good,Electronics,"HomeTheater,TV&Video",-0.22036727879799667
+205,more than 500,599.0,449.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.25041736227045075
+206,more than 500,31990.0,11990.0,Good,Electronics,"HomeTheater,TV&Video",-0.6251953735542357
+207,more than 500,599.0,350.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.41569282136894825
+208,more than 500,999.0,252.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7477477477477478
+209,more than 500,599.0,204.0,Fair,Electronics,"HomeTheater,TV&Video",-0.659432387312187
+210,more than 500,9990.0,6490.0,Fair,Electronics,"HomeTheater,TV&Video",-0.35035035035035034
+211,more than 500,599.0,235.0,Fair,Electronics,"HomeTheater,TV&Video",-0.6076794657762938
+212,more than 500,800.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.62625
+213,more than 500,1999.0,799.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6003001500750376
+214,more than 500,999.0,299.0,Fair,Electronics,"HomeTheater,TV&Video",-0.7007007007007007
+215,more than 500,16990.0,6999.0,Fair,Electronics,"HomeTheater,TV&Video",-0.5880517951736316
+216,more than 500,59999.0,42999.0,Good,Electronics,"HomeTheater,TV&Video",-0.28333805563426057
+217,more than 500,999.0,173.0,Good,Electronics,"HomeTheater,TV&Video",-0.8268268268268268
+218,more than 500,600.0,209.0,Good,Electronics,HomeAudio,-0.6516666666666666
+219,more than 500,1490.0,848.99,Fair,Computers&Accessories,Accessories&Peripherals,-0.4302080536912752
+220,more than 500,1999.0,649.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6753376688344173
+221,more than 500,899.0,299.0,Fair,Electronics,"HomeTheater,TV&Video",-0.6674082313681868
+222,more than 500,799.0,399.0,Good,Electronics,"HomeTheater,TV&Video",-0.5006257822277848
+223,between 50 and 500,499.0,249.0,Good,Computers&Accessories,Accessories&Peripherals,-0.501002004008016
+224,more than 500,2299.0,1249.0,Good,Electronics,"HomeTheater,TV&Video",-0.45672031317964334
+225,between 50 and 500,499.0,213.0,Fair,Electronics,"HomeTheater,TV&Video",-0.5731462925851704
+226,between 50 and 500,499.0,209.0,Fair,Electronics,"HomeTheater,TV&Video",-0.5811623246492986
+227,more than 500,4999.0,598.0,Good,Electronics,"HomeTheater,TV&Video",-0.880376075215043
+228,more than 500,1749.0,799.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5431675242995998
+229,more than 500,595.0,159.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7327731092436974
+230,more than 500,1100.0,499.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5463636363636364
+231,more than 500,49999.0,31999.0,Good,Electronics,"HomeTheater,TV&Video",-0.3600072001440029
+232,more than 500,56790.0,32990.0,Good,Electronics,"HomeTheater,TV&Video",-0.4190878675823208
+233,more than 500,1199.0,299.0,Fair,Electronics,"HomeTheater,TV&Video",-0.7506255212677231
+234,more than 500,549.0,128.31,Fair,Computers&Accessories,Accessories&Peripherals,-0.7662841530054645
+235,more than 500,849.0,599.0,Good,Computers&Accessories,Accessories&Peripherals,-0.2944640753828033
+236,more than 500,899.0,399.0,Fair,Electronics,"HomeTheater,TV&Video",-0.5561735261401557
+237,more than 500,1099.0,449.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5914467697907189
+238,more than 500,799.0,254.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6821026282853567
+239,more than 500,795.0,399.0,Good,Electronics,"HomeTheater,TV&Video",-0.4981132075471698
+240,between 50 and 500,399.0,179.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5513784461152882
+241,more than 500,999.0,339.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6606606606606606
+242,more than 500,999.0,399.0,Fair,Electronics,"HomeTheater,TV&Video",-0.6006006006006006
+243,between 50 and 500,399.0,199.0,Good,Electronics,"HomeTheater,TV&Video",-0.5012531328320802
+244,more than 500,1999.0,349.0,Fair,Electronics,"HomeTheater,TV&Video",-0.8254127063531765
+245,more than 500,798.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.62531328320802
+246,more than 500,800.0,89.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.88875
+247,more than 500,995.0,549.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4482412060301508
+248,more than 500,1000.0,129.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.871
+249,more than 500,139900.0,77990.0,Excellent,Electronics,"HomeTheater,TV&Video",-0.44253037884203
+250,more than 500,799.0,349.0,Fair,Electronics,"HomeTheater,TV&Video",-0.5632040050062578
+251,more than 500,899.0,499.0,Fair,Electronics,"HomeTheater,TV&Video",-0.44493882091212456
+252,more than 500,799.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6257822277847309
+253,more than 500,599.0,182.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6961602671118531
+254,between 50 and 500,399.0,96.0,Fair,Electronics,"HomeTheater,TV&Video",-0.7593984962406015
+255,more than 500,85000.0,54990.0,Good,Electronics,"HomeTheater,TV&Video",-0.35305882352941176
+256,more than 500,758.0,439.0,Good,Electronics,"HomeTheater,TV&Video",-0.420844327176781
+257,more than 500,999.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7007007007007007
+258,more than 500,799.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6257822277847309
+259,more than 500,1999.0,789.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6053026513256629
+260,more than 500,700.0,299.0,Good,Electronics,"HomeTheater,TV&Video",-0.5728571428571428
+261,more than 500,1099.0,325.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7042766151046406
+262,more than 500,1999.0,1299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.3501750875437719
+263,more than 500,1999.0,790.0,Poor,Electronics,"HomeTheater,TV&Video",-0.6048024012006002
+264,more than 500,4699.0,4699.0,Good,Electronics,HomeAudio,0.0
+265,more than 500,24990.0,18999.0,Good,Electronics,"HomeTheater,TV&Video",-0.2397358943577431
+266,more than 500,999.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.8008008008008008
+267,more than 500,650.0,269.0,Good,Electronics,"HomeTheater,TV&Video",-0.5861538461538461
+268,more than 500,3100.0,1990.0,Fair,Electronics,"HomeTheater,TV&Video",-0.3580645161290323
+269,more than 500,3999.0,2299.0,Fair,Electronics,HomeAudio,-0.4251062765691423
+270,more than 500,49990.0,35999.0,Good,Electronics,"HomeTheater,TV&Video",-0.279875975195039
+271,more than 500,999.0,349.0,Good,Electronics,"HomeTheater,TV&Video",-0.6506506506506506
+272,more than 500,1499.0,719.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5203468979319547
+273,more than 500,18999.0,8999.0,Fair,Electronics,"HomeTheater,TV&Video",-0.5263434917627243
+274,more than 500,2299.0,917.0,Good,Electronics,"HomeTheater,TV&Video",-0.6011309264897782
+275,more than 500,999.0,399.0,Fair,Electronics,"HomeTheater,TV&Video",-0.6006006006006006
+276,more than 500,69900.0,45999.0,Good,Electronics,"HomeTheater,TV&Video",-0.341931330472103
+277,between 50 and 500,299.0,119.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6020066889632107
+278,more than 500,29999.0,21999.0,Good,Electronics,"HomeTheater,TV&Video",-0.26667555585186176
+279,more than 500,599.0,299.0,Fair,Electronics,"HomeTheater,TV&Video",-0.5008347245409015
+280,more than 500,34990.0,21990.0,Good,Electronics,"HomeTheater,TV&Video",-0.37153472420691624
+281,more than 500,670.0,417.44,Fair,Computers&Accessories,Accessories&Peripherals,-0.37695522388059705
+282,more than 500,999.0,199.0,Poor,Computers&Accessories,Accessories&Peripherals,-0.8008008008008008
+283,more than 500,79990.0,47990.0,Good,Electronics,"HomeTheater,TV&Video",-0.40005000625078135
+284,between 50 and 500,499.0,215.0,Fair,Electronics,"HomeTheater,TV&Video",-0.5691382765531062
+285,more than 500,800.0,99.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.87625
+286,more than 500,35000.0,18999.0,Fair,Electronics,"HomeTheater,TV&Video",-0.45717142857142856
+287,more than 500,999.0,249.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7507507507507507
+288,more than 500,15999.0,7999.0,Fair,Electronics,"HomeTheater,TV&Video",-0.500031251953247
+289,more than 500,1600.0,649.0,Good,Computers&Accessories,Accessories&Peripherals,-0.594375
+290,more than 500,2499.0,1289.0,Fair,Electronics,"HomeTheater,TV&Video",-0.4841936774709884
+291,more than 500,1500.0,609.0,Good,Electronics,"HomeTheater,TV&Video",-0.594
+292,more than 500,54990.0,32990.0,Good,Electronics,"HomeTheater,TV&Video",-0.4000727404982724
+293,more than 500,1999.0,599.0,Good,Electronics,"HomeTheater,TV&Video",-0.7003501750875438
+294,more than 500,899.0,349.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6117908787541713
+295,more than 500,50999.0,29999.0,Good,Electronics,"HomeTheater,TV&Video",-0.4117727798584286
+296,between 50 and 500,399.0,199.0,Good,Electronics,"HomeTheater,TV&Video",-0.5012531328320802
+297,more than 500,699.0,349.0,Fair,Electronics,"HomeTheater,TV&Video",-0.5007153075822603
+298,more than 500,4500.0,1850.0,Fair,Electronics,"HomeTheater,TV&Video",-0.5888888888888889
+299,more than 500,28900.0,13990.0,Good,Electronics,"HomeTheater,TV&Video",-0.5159169550173011
+300,between 50 and 500,449.0,129.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7126948775055679
+301,more than 500,999.0,379.0,Good,Electronics,"HomeTheater,TV&Video",-0.6206206206206206
+302,between 50 and 500,499.0,185.0,Good,Electronics,"HomeTheater,TV&Video",-0.6292585170340681
+303,more than 500,999.0,218.0,Good,Computers&Accessories,NetworkingDevices,-0.7817817817817818
+304,more than 500,999.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.8008008008008008
+305,more than 500,900.0,499.0,Good,Electronics,"HomeTheater,TV&Video",-0.44555555555555554
+306,more than 500,42999.0,26999.0,Good,Electronics,"HomeTheater,TV&Video",-0.372101676783181
+307,more than 500,1052.0,893.0,Good,Electronics,"HomeTheater,TV&Video",-0.15114068441064638
+308,more than 500,19990.0,10990.0,Fair,Electronics,"HomeTheater,TV&Video",-0.4502251125562781
+309,more than 500,1099.0,379.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6551410373066424
+310,more than 500,25999.0,16999.0,Good,Electronics,"HomeTheater,TV&Video",-0.3461671602753952
+311,more than 500,1899.0,699.0,Good,Electronics,"HomeTheater,TV&Video",-0.631911532385466
+312,more than 500,3500.0,2699.0,Fair,Electronics,"HomeTheater,TV&Video",-0.22885714285714287
+313,more than 500,599.0,129.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7846410684474123
+314,more than 500,999.0,389.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6106106106106106
+315,more than 500,600.0,246.0,Good,Electronics,"HomeTheater,TV&Video",-0.59
+316,more than 500,799.0,299.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6257822277847309
+317,between 50 and 500,399.0,247.0,Fair,Electronics,"HomeTheater,TV&Video",-0.38095238095238093
+318,more than 500,2999.0,1369.0,Fair,Electronics,"HomeTheater,TV&Video",-0.543514504834945
+319,between 50 and 500,499.0,199.0,Fair,Electronics,"HomeTheater,TV&Video",-0.6012024048096193
+320,more than 500,599.0,299.0,Fair,Electronics,"HomeTheater,TV&Video",-0.5008347245409015
+321,more than 500,14999.0,14999.0,Good,Electronics,"HomeTheater,TV&Video",0.0
+322,more than 500,699.0,299.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5722460658082976
+323,more than 500,51990.0,24990.0,Good,Electronics,"HomeTheater,TV&Video",-0.51933064050779
+324,more than 500,999.0,249.0,Excellent,Computers&Accessories,Accessories&Peripherals,-0.7507507507507507
+325,more than 500,69999.0,61999.0,Good,Electronics,"HomeTheater,TV&Video",-0.11428734696209945
+326,more than 500,50000.0,24499.0,Fair,Electronics,"HomeTheater,TV&Video",-0.51002
+327,more than 500,19499.0,10499.0,Good,Electronics,"HomeTheater,TV&Video",-0.4615621313913534
+328,more than 500,999.0,349.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6506506506506506
+329,between 50 and 500,499.0,197.0,Fair,Electronics,"HomeTheater,TV&Video",-0.6052104208416834
+330,more than 500,2499.0,1299.0,Good,Electronics,"HomeTheater,TV&Video",-0.4801920768307323
+331,more than 500,1899.0,1519.0,Good,Computers&Accessories,Accessories&Peripherals,-0.2001053185887309
+332,more than 500,69999.0,46999.0,Good,Electronics,"HomeTheater,TV&Video",-0.32857612251603596
+333,more than 500,799.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6257822277847309
+334,more than 500,19999.0,1799.0,Good,Electronics,WearableTechnology,-0.9100455022751137
+335,more than 500,9999.0,1998.0,Good,Electronics,WearableTechnology,-0.8001800180018002
+336,more than 500,7990.0,1999.0,Fair,Electronics,WearableTechnology,-0.7498122653316646
+337,more than 500,2199.0,2049.0,Good,Electronics,Mobiles&Accessories,-0.06821282401091405
+338,more than 500,8999.0,6499.0,Fair,Electronics,Mobiles&Accessories,-0.277808645405045
+339,more than 500,28999.0,28999.0,Good,Electronics,Mobiles&Accessories,0.0
+340,more than 500,28999.0,28999.0,Good,Electronics,Mobiles&Accessories,0.0
+341,more than 500,8999.0,6499.0,Fair,Electronics,Mobiles&Accessories,-0.277808645405045
+342,more than 500,8999.0,6499.0,Fair,Electronics,Mobiles&Accessories,-0.277808645405045
+343,more than 500,1000.0,569.0,Good,Electronics,Accessories,-0.431
+344,more than 500,4999.0,1898.0,Good,Electronics,WearableTechnology,-0.6203240648129625
+345,more than 500,1599.0,1299.0,Fair,Electronics,Mobiles&Accessories,-0.18761726078799248
+346,more than 500,6990.0,1499.0,Fair,Electronics,WearableTechnology,-0.7855507868383405
+347,more than 500,999.0,599.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.4004004004004004
+348,more than 500,11999.0,9499.0,Good,Electronics,Mobiles&Accessories,-0.20835069589132427
+349,more than 500,2499.0,599.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.7603041216486595
+350,more than 500,11999.0,8999.0,Fair,Electronics,Mobiles&Accessories,-0.2500208350695891
+351,more than 500,1299.0,349.0,Fair,Electronics,Mobiles&Accessories,-0.7313317936874519
+352,more than 500,999.0,349.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.6506506506506506
+353,more than 500,1800.0,959.0,Good,Electronics,Accessories,-0.4672222222222222
+354,more than 500,11999.0,9499.0,Good,Electronics,Mobiles&Accessories,-0.20835069589132427
+355,more than 500,2499.0,1499.0,Good,Electronics,Mobiles&Accessories,-0.4001600640256102
+356,more than 500,2199.0,1149.0,Good,Electronics,Mobiles&Accessories,-0.47748976807639837
+357,more than 500,999.0,349.0,Fair,Electronics,Mobiles&Accessories,-0.6506506506506506
+358,more than 500,1699.0,1219.0,Good,Electronics,Mobiles&Accessories,-0.28251912889935255
+359,more than 500,3999.0,1599.0,Fair,Electronics,WearableTechnology,-0.6001500375093773
+360,more than 500,7999.0,1499.0,Good,Electronics,WearableTechnology,-0.8126015751968996
+361,more than 500,25999.0,18499.0,Good,Electronics,Mobiles&Accessories,-0.2884726335628293
+362,more than 500,700.0,369.0,Good,Electronics,Accessories,-0.47285714285714286
+363,more than 500,17999.0,12999.0,Good,Electronics,Mobiles&Accessories,-0.27779321073392965
+364,more than 500,19999.0,1799.0,Good,Electronics,WearableTechnology,-0.9100455022751137
+365,more than 500,9999.0,2199.0,Good,Electronics,WearableTechnology,-0.7800780078007801
+366,more than 500,24999.0,16999.0,Good,Electronics,Mobiles&Accessories,-0.32001280051202047
+367,more than 500,20999.0,16499.0,Fair,Electronics,Mobiles&Accessories,-0.21429591885327873
+368,more than 500,19999.0,1799.0,Good,Electronics,WearableTechnology,-0.9100455022751137
+369,more than 500,1099.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6369426751592356
+370,more than 500,10999.0,8499.0,Good,Electronics,Mobiles&Accessories,-0.22729339030820983
+371,more than 500,8499.0,6499.0,Good,Electronics,Mobiles&Accessories,-0.23532180256500765
+372,more than 500,19999.0,1799.0,Good,Electronics,WearableTechnology,-0.9100455022751137
+373,more than 500,11999.0,8999.0,Fair,Electronics,Mobiles&Accessories,-0.2500208350695891
+374,between 50 and 500,495.0,139.0,Good,Electronics,Mobiles&Accessories,-0.7191919191919192
+375,more than 500,16999.0,3999.0,Good,Electronics,WearableTechnology,-0.7647508676980999
+376,more than 500,5999.0,2998.0,Good,Electronics,WearableTechnology,-0.5002500416736123
+377,between 50 and 500,349.0,199.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.4297994269340974
+378,more than 500,18999.0,15499.0,Good,Electronics,Mobiles&Accessories,-0.18422022211695352
+379,more than 500,999.0,199.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8008008008008008
+380,more than 500,19999.0,1799.0,Good,Electronics,WearableTechnology,-0.9100455022751137
+381,more than 500,11999.0,8999.0,Fair,Electronics,Mobiles&Accessories,-0.2500208350695891
+382,more than 500,1699.0,873.0,Good,Electronics,Mobiles&Accessories,-0.4861683343143025
+383,more than 500,15999.0,12999.0,Good,Electronics,Mobiles&Accessories,-0.18751171948246764
+384,more than 500,1599.0,539.0,Fair,Electronics,Mobiles&Accessories,-0.6629143214509068
+385,more than 500,9999.0,1999.0,Good,Electronics,WearableTechnology,-0.8000800080008
+386,more than 500,20990.0,15490.0,Good,Electronics,Mobiles&Accessories,-0.26202953787517863
+387,more than 500,24999.0,19999.0,Fair,Electronics,Mobiles&Accessories,-0.2000080003200128
+388,more than 500,1699.0,1075.0,Good,Electronics,Mobiles&Accessories,-0.36727486756915834
+389,more than 500,699.0,399.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.4291845493562232
+390,more than 500,3990.0,1999.0,Fair,Electronics,WearableTechnology,-0.49899749373433583
+391,more than 500,7990.0,1999.0,Fair,Electronics,WearableTechnology,-0.7498122653316646
+392,more than 500,699.0,329.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5293276108726752
+393,between 50 and 500,399.0,154.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6140350877192983
+394,more than 500,34999.0,28999.0,Good,Electronics,Mobiles&Accessories,-0.1714334695277008
+395,more than 500,7990.0,2299.0,Good,Electronics,WearableTechnology,-0.7122653316645807
+396,more than 500,1999.0,399.0,Fair,Electronics,Mobiles&Accessories,-0.80040020010005
+397,more than 500,3999.0,1149.0,Good,Electronics,Accessories,-0.7126781695423856
+398,more than 500,1499.0,529.0,Good,Electronics,Mobiles&Accessories,-0.6470980653769179
+399,more than 500,19499.0,13999.0,Good,Electronics,Mobiles&Accessories,-0.28206574696138265
+400,more than 500,999.0,379.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.6206206206206206
+401,more than 500,19999.0,13999.0,Good,Electronics,Mobiles&Accessories,-0.3000150007500375
+402,more than 500,9999.0,3999.0,Good,Electronics,WearableTechnology,-0.6000600060006
+403,more than 500,1000.0,149.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.851
+404,between 50 and 500,499.0,99.0,Good,Electronics,Mobiles&Accessories,-0.8016032064128257
+405,more than 500,15990.0,4790.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.7004377736085053
+406,more than 500,33999.0,33999.0,Good,Electronics,Mobiles&Accessories,0.0
+407,more than 500,999.0,99.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.9009009009009009
+408,more than 500,1900.0,299.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.8426315789473684
+409,more than 500,14999.0,10999.0,Good,Electronics,Mobiles&Accessories,-0.26668444562970867
+410,more than 500,38999.0,34999.0,Good,Electronics,Mobiles&Accessories,-0.10256673248032001
+411,more than 500,24999.0,16999.0,Good,Electronics,Mobiles&Accessories,-0.32001280051202047
+412,between 50 and 500,499.0,199.0,Good,Electronics,Mobiles&Accessories,-0.6012024048096193
+413,more than 500,1599.0,999.0,Fair,Electronics,Mobiles&Accessories,-0.37523452157598497
+414,more than 500,1599.0,1299.0,Fair,Electronics,Mobiles&Accessories,-0.18761726078799248
+415,more than 500,1800.0,599.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.6672222222222223
+416,more than 500,1899.0,599.0,Good,Electronics,Accessories,-0.6845708267509215
+417,more than 500,2499.0,1799.0,Good,Electronics,Mobiles&Accessories,-0.2801120448179272
+418,between 50 and 500,499.0,176.63,Good,Computers&Accessories,Accessories&Peripherals,-0.6460320641282565
+419,more than 500,14999.0,10999.0,Good,Electronics,Mobiles&Accessories,-0.26668444562970867
+420,more than 500,7990.0,2999.0,Good,Electronics,WearableTechnology,-0.6246558197747184
+421,more than 500,7990.0,1999.0,Fair,Electronics,WearableTechnology,-0.7498122653316646
+422,between 50 and 500,299.0,229.0,Good,Computers&Accessories,Accessories&Peripherals,-0.23411371237458195
+423,between 50 and 500,299.0,199.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.33444816053511706
+424,more than 500,999.0,649.0,Good,Electronics,Mobiles&Accessories,-0.35035035035035034
+425,more than 500,19499.0,13999.0,Good,Electronics,Mobiles&Accessories,-0.28206574696138265
+426,between 50 and 500,299.0,119.0,Good,Electronics,Mobiles&Accessories,-0.6020066889632107
+427,more than 500,17999.0,12999.0,Good,Electronics,Mobiles&Accessories,-0.27779321073392965
+428,between 50 and 500,339.0,154.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5457227138643068
+429,more than 500,26999.0,20999.0,Fair,Electronics,Mobiles&Accessories,-0.22223045297973998
+430,more than 500,649.0,249.0,Fair,Electronics,Mobiles&Accessories,-0.6163328197226502
+431,between 50 and 500,171.0,99.0,Good,Electronics,Mobiles&Accessories,-0.42105263157894735
+432,more than 500,1999.0,489.0,Fair,Electronics,Mobiles&Accessories,-0.7553776888444222
+433,more than 500,1600.0,369.0,Fair,Electronics,Accessories,-0.769375
+434,more than 500,20999.0,15499.0,Good,Electronics,Mobiles&Accessories,-0.26191723415400736
+435,more than 500,18999.0,15499.0,Good,Electronics,Mobiles&Accessories,-0.18422022211695352
+436,more than 500,28999.0,22999.0,Fair,Electronics,Mobiles&Accessories,-0.20690368633401152
+437,more than 500,1490.0,599.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.5979865771812081
+438,more than 500,699.0,134.0,Good,Electronics,Mobiles&Accessories,-0.8082975679542204
+439,more than 500,7999.0,7499.0,Fair,Electronics,Mobiles&Accessories,-0.06250781347668459
+440,more than 500,2199.0,1149.0,Good,Electronics,Mobiles&Accessories,-0.47748976807639837
+441,more than 500,1699.0,1324.0,Fair,Electronics,Mobiles&Accessories,-0.22071806945261918
+442,more than 500,19999.0,13999.0,Good,Electronics,Mobiles&Accessories,-0.3000150007500375
+443,more than 500,799.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6257822277847309
+444,more than 500,1599.0,999.0,Fair,Electronics,Mobiles&Accessories,-0.37523452157598497
+445,more than 500,17999.0,12999.0,Good,Electronics,Mobiles&Accessories,-0.27779321073392965
+446,more than 500,20990.0,15490.0,Good,Electronics,Mobiles&Accessories,-0.26202953787517863
+447,more than 500,2899.0,999.0,Excellent,Electronics,Mobiles&Accessories,-0.6553984132459468
+448,more than 500,4999.0,1599.0,Fair,Electronics,WearableTechnology,-0.6801360272054411
+449,more than 500,1699.0,1324.0,Fair,Electronics,Mobiles&Accessories,-0.22071806945261918
+450,more than 500,29990.0,20999.0,Good,Electronics,Mobiles&Accessories,-0.2997999333111037
+451,more than 500,1999.0,999.0,Good,Electronics,Mobiles&Accessories,-0.5002501250625313
+452,more than 500,15990.0,12490.0,Good,Electronics,Mobiles&Accessories,-0.2188868042526579
+453,more than 500,21990.0,17999.0,Fair,Electronics,Mobiles&Accessories,-0.18149158708503865
+454,more than 500,899.0,350.0,Good,Computers&Accessories,Accessories&Peripherals,-0.610678531701891
+455,more than 500,1630.0,1399.0,Fair,Electronics,Mobiles&Accessories,-0.14171779141104293
+456,between 50 and 500,399.0,159.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6015037593984962
+457,more than 500,6990.0,1499.0,Fair,Electronics,WearableTechnology,-0.7855507868383405
+458,more than 500,7990.0,1999.0,Fair,Electronics,WearableTechnology,-0.7498122653316646
+459,more than 500,2899.0,999.0,Excellent,Electronics,Mobiles&Accessories,-0.6553984132459468
+460,more than 500,5999.0,2099.0,Good,Electronics,Mobiles&Accessories,-0.6501083513918986
+461,more than 500,699.0,337.0,Good,Electronics,Mobiles&Accessories,-0.5178826895565093
+462,more than 500,7990.0,2999.0,Good,Electronics,WearableTechnology,-0.6246558197747184
+463,more than 500,5999.0,1299.0,Fair,Electronics,WearableTechnology,-0.7834639106517753
+464,between 50 and 500,399.0,349.0,Good,Computers&Accessories,Accessories&Peripherals,-0.12531328320802004
+465,more than 500,20990.0,16499.0,Fair,Electronics,Mobiles&Accessories,-0.21395902810862316
+466,between 50 and 500,499.0,499.0,Good,Electronics,"Headphones,Earbuds&Accessories",0.0
+467,more than 500,1799.0,970.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4608115619788771
+468,more than 500,2899.0,999.0,Excellent,Electronics,Mobiles&Accessories,-0.6553984132459468
+469,more than 500,13499.0,10499.0,Good,Electronics,Mobiles&Accessories,-0.22223868434698868
+470,between 50 and 500,399.0,249.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.37593984962406013
+471,more than 500,999.0,251.0,Fair,Electronics,Mobiles&Accessories,-0.7487487487487487
+472,between 50 and 500,499.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6012024048096193
+473,more than 500,7999.0,6499.0,Good,Electronics,Mobiles&Accessories,-0.18752344043005376
+474,more than 500,9999.0,2999.0,Good,Electronics,WearableTechnology,-0.7000700070007001
+475,more than 500,1499.0,279.0,Good,Electronics,Mobiles&Accessories,-0.8138759172781854
+476,more than 500,1499.0,269.0,Good,Electronics,Mobiles&Accessories,-0.8205470313542361
+477,more than 500,13499.0,8999.0,Fair,Electronics,Mobiles&Accessories,-0.333358026520483
+478,between 50 and 500,199.0,59.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7035175879396985
+479,more than 500,1299.0,599.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.5388760585065435
+480,more than 500,999.0,349.0,Fair,Electronics,Mobiles&Accessories,-0.6506506506506506
+481,more than 500,19499.0,13999.0,Good,Electronics,Mobiles&Accessories,-0.28206574696138265
+482,more than 500,999.0,349.0,Fair,Electronics,Mobiles&Accessories,-0.6506506506506506
+483,more than 500,599.0,499.0,Good,Electronics,Mobiles&Accessories,-0.1669449081803005
+484,more than 500,9999.0,2199.0,Good,Electronics,WearableTechnology,-0.7800780078007801
+485,between 50 and 500,499.0,95.0,Good,Electronics,Mobiles&Accessories,-0.8096192384769539
+486,between 50 and 500,249.0,139.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.44176706827309237
+487,more than 500,7999.0,4499.0,Fair,Electronics,WearableTechnology,-0.4375546943367921
+488,more than 500,599.0,89.0,Good,Electronics,Mobiles&Accessories,-0.8514190317195326
+489,more than 500,20999.0,15499.0,Good,Electronics,Mobiles&Accessories,-0.26191723415400736
+490,more than 500,15999.0,13999.0,Fair,Electronics,Mobiles&Accessories,-0.12500781298831176
+491,more than 500,4999.0,1999.0,Fair,Electronics,WearableTechnology,-0.6001200240048009
+492,more than 500,5999.0,1399.0,Fair,Electronics,WearableTechnology,-0.7667944657442907
+493,more than 500,999.0,599.0,Fair,Electronics,Mobiles&Accessories,-0.4004004004004004
+494,more than 500,1099.0,199.0,Fair,Electronics,Mobiles&Accessories,-0.818926296633303
+495,more than 500,6990.0,1799.0,Fair,Electronics,WearableTechnology,-0.7426323319027182
+496,more than 500,6990.0,1499.0,Fair,Electronics,WearableTechnology,-0.7855507868383405
+497,more than 500,29990.0,20999.0,Good,Electronics,Mobiles&Accessories,-0.2997999333111037
+498,more than 500,13499.0,12999.0,Good,Electronics,Mobiles&Accessories,-0.03703978072449811
+499,more than 500,20999.0,16999.0,Good,Electronics,Mobiles&Accessories,-0.19048526120291442
+500,more than 500,27990.0,19999.0,Good,Electronics,Mobiles&Accessories,-0.2854948195784209
+501,more than 500,18999.0,12999.0,Good,Electronics,Mobiles&Accessories,-0.31580609505763463
+502,more than 500,5999.0,2999.0,Good,Electronics,WearableTechnology,-0.5000833472245374
+503,more than 500,999.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7007007007007007
+504,more than 500,1999.0,970.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5147573786893447
+505,more than 500,999.0,329.0,Good,Electronics,Mobiles&Accessories,-0.6706706706706707
+506,more than 500,5999.0,1299.0,Fair,Electronics,WearableTechnology,-0.7834639106517753
+507,more than 500,3500.0,1989.0,Good,Electronics,Accessories,-0.4317142857142857
+508,more than 500,9999.0,1999.0,Good,Electronics,WearableTechnology,-0.8000800080008
+509,more than 500,18999.0,12999.0,Good,Electronics,Mobiles&Accessories,-0.31580609505763463
+510,more than 500,4999.0,1499.0,Fair,Electronics,WearableTechnology,-0.7001400280056012
+511,more than 500,20999.0,16999.0,Good,Electronics,Mobiles&Accessories,-0.19048526120291442
+512,more than 500,8499.0,1999.0,Good,Electronics,WearableTechnology,-0.7647958583362748
+513,more than 500,6999.0,4999.0,Fair,Electronics,WearableTechnology,-0.2857551078725532
+514,more than 500,666.66,99.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8514985149851498
+515,more than 500,5999.0,2499.0,Fair,Electronics,WearableTechnology,-0.5834305717619603
+516,more than 500,1630.0,1399.0,Fair,Electronics,Mobiles&Accessories,-0.14171779141104293
+517,more than 500,9999.0,1499.0,Good,Electronics,WearableTechnology,-0.8500850085008501
+518,more than 500,1900.0,899.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5268421052631579
+519,more than 500,599.0,249.0,Fair,Electronics,Mobiles&Accessories,-0.5843071786310517
+520,more than 500,1199.0,299.0,Good,Electronics,Mobiles&Accessories,-0.7506255212677231
+521,between 50 and 500,499.0,79.0,Good,Electronics,Mobiles&Accessories,-0.8416833667334669
+522,more than 500,15999.0,13999.0,Fair,Electronics,Mobiles&Accessories,-0.12500781298831176
+523,more than 500,999.0,949.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.05005005005005005
+524,between 50 and 500,499.0,99.0,Good,Electronics,Mobiles&Accessories,-0.8016032064128257
+525,more than 500,7990.0,2499.0,Good,Electronics,WearableTechnology,-0.6872340425531915
+526,more than 500,1999.0,689.0,Good,Electronics,Mobiles&Accessories,-0.655327663831916
+527,more than 500,1899.0,499.0,Good,Electronics,Mobiles&Accessories,-0.7372301211163771
+528,more than 500,999.0,299.0,Good,Electronics,Mobiles&Accessories,-0.7007007007007007
+529,between 50 and 500,499.0,209.0,Fair,Electronics,Mobiles&Accessories,-0.5811623246492986
+530,more than 500,12999.0,8499.0,Good,Electronics,Mobiles&Accessories,-0.34618047542118624
+531,more than 500,3999.0,2179.0,Fair,Electronics,Mobiles&Accessories,-0.45511377844461115
+532,more than 500,20999.0,16999.0,Good,Electronics,Mobiles&Accessories,-0.19048526120291442
+533,more than 500,49999.0,44999.0,Good,Electronics,Mobiles&Accessories,-0.1000020000400008
+534,more than 500,2999.0,2599.0,Fair,Electronics,Mobiles&Accessories,-0.13337779259753252
+535,more than 500,6499.0,2799.0,Good,Electronics,WearableTechnology,-0.569318356670257
+536,more than 500,2990.0,1399.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.5321070234113713
+537,more than 500,2400.0,649.0,Good,Electronics,Accessories,-0.7295833333333334
+538,more than 500,3990.0,799.0,Fair,Electronics,Mobiles&Accessories,-0.799749373433584
+539,between 50 and 500,149.0,149.0,Good,Computers&Accessories,Accessories&Peripherals,0.0
+540,more than 500,2100.0,799.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6195238095238095
+541,more than 500,5299.0,3799.0,Fair,Electronics,Mobiles&Accessories,-0.28307227778826194
+542,more than 500,1899.0,199.0,Fair,Electronics,Mobiles&Accessories,-0.8952080042127436
+543,more than 500,32999.0,23999.0,Fair,Electronics,Mobiles&Accessories,-0.2727355374405285
+544,more than 500,39990.0,29990.0,Good,Electronics,Mobiles&Accessories,-0.25006251562890724
+545,more than 500,1999.0,281.0,Poor,Electronics,WearableTechnology,-0.8594297148574287
+546,more than 500,11999.0,7998.0,Fair,Electronics,Mobiles&Accessories,-0.3334444537044754
+547,more than 500,999.0,249.0,Good,Electronics,WearableTechnology,-0.7507507507507507
+548,more than 500,599.0,299.0,Good,Electronics,Mobiles&Accessories,-0.5008347245409015
+549,more than 500,1899.0,499.0,Good,Electronics,WearableTechnology,-0.7372301211163771
+550,more than 500,3499.0,899.0,Poor,Electronics,WearableTechnology,-0.7430694484138325
+551,more than 500,3499.0,1599.0,Fair,Electronics,Mobiles&Accessories,-0.543012289225493
+552,more than 500,999.0,120.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.8798798798798799
+553,more than 500,6999.0,3999.0,Good,Electronics,WearableTechnology,-0.4286326618088298
+554,more than 500,18999.0,12999.0,Good,Electronics,Mobiles&Accessories,-0.31580609505763463
+555,more than 500,2599.0,1599.0,Good,Electronics,Mobiles&Accessories,-0.38476337052712584
+556,more than 500,1199.0,699.0,Fair,Electronics,Mobiles&Accessories,-0.4170141784820684
+557,more than 500,999.0,99.0,Good,Electronics,Mobiles&Accessories,-0.9009009009009009
+558,more than 500,9999.0,7915.0,Good,Electronics,Mobiles&Accessories,-0.2084208420842084
+559,more than 500,7999.0,1499.0,Good,Electronics,WearableTechnology,-0.8126015751968996
+560,more than 500,1249.0,1055.0,Fair,Electronics,Mobiles&Accessories,-0.15532425940752603
+561,more than 500,599.0,150.0,Good,Electronics,Mobiles&Accessories,-0.7495826377295493
+562,more than 500,700.0,219.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6871428571428572
+563,more than 500,1799.0,474.0,Good,Electronics,Mobiles&Accessories,-0.736520289049472
+564,between 50 and 500,499.0,115.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7695390781563126
+565,more than 500,599.0,239.0,Fair,Electronics,Mobiles&Accessories,-0.6010016694490818
+566,more than 500,9499.0,7499.0,Good,Electronics,Mobiles&Accessories,-0.21054847878724076
+567,more than 500,999.0,265.0,Fair,Electronics,WearableTechnology,-0.7347347347347347
+568,more than 500,74999.0,37990.0,Good,Electronics,Mobiles&Accessories,-0.49345991279883733
+569,between 50 and 500,499.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6012024048096193
+570,between 50 and 500,399.0,179.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5513784461152882
+571,more than 500,3999.0,1799.0,Excellent,Electronics,Mobiles&Accessories,-0.5501375343835959
+572,more than 500,11999.0,8499.0,Fair,Electronics,Mobiles&Accessories,-0.291690974247854
+573,more than 500,3999.0,1999.0,Fair,Electronics,WearableTechnology,-0.5001250312578145
+574,more than 500,17999.0,3999.0,Good,Electronics,WearableTechnology,-0.777820990055003
+575,between 50 and 500,499.0,219.0,Good,Electronics,Mobiles&Accessories,-0.561122244488978
+576,more than 500,1399.0,599.0,Good,Electronics,Mobiles&Accessories,-0.5718370264474625
+577,more than 500,2999.0,2499.0,Good,Electronics,Mobiles&Accessories,-0.16672224074691563
+578,between 50 and 500,499.0,89.0,Good,Electronics,Mobiles&Accessories,-0.8216432865731463
+579,more than 500,11999.0,2999.0,Good,Electronics,WearableTechnology,-0.7500625052087674
+580,more than 500,1499.0,314.0,Good,Electronics,Mobiles&Accessories,-0.790527018012008
+581,more than 500,19499.0,13999.0,Good,Electronics,Mobiles&Accessories,-0.28206574696138265
+582,between 50 and 500,499.0,139.0,Good,Electronics,Mobiles&Accessories,-0.7214428857715431
+583,more than 500,6999.0,2599.0,Good,Electronics,Mobiles&Accessories,-0.6286612373196171
+584,more than 500,999.0,365.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.6346346346346347
+585,more than 500,4490.0,1499.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.6661469933184855
+586,more than 500,9999.0,1998.0,Good,Electronics,WearableTechnology,-0.8001800180018002
+587,more than 500,7990.0,1799.0,Fair,Electronics,WearableTechnology,-0.7748435544430539
+588,more than 500,650.0,289.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.5553846153846154
+589,more than 500,895.0,599.0,Good,Computers&Accessories,Accessories&Peripherals,-0.3307262569832402
+590,between 50 and 500,237.0,217.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.08438818565400844
+591,more than 500,2990.0,1299.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.565551839464883
+592,more than 500,699.0,263.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6237482117310443
+593,more than 500,1000.0,569.0,Good,Electronics,Accessories,-0.431
+594,more than 500,4999.0,1999.0,Good,Electronics,WearableTechnology,-0.6001200240048009
+595,more than 500,3990.0,1399.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.6493734335839599
+596,more than 500,1499.0,349.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7671781187458305
+597,between 50 and 500,399.0,149.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.6265664160401002
+598,more than 500,999.0,599.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.4004004004004004
+599,more than 500,3990.0,1220.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.6942355889724311
+600,more than 500,6990.0,1499.0,Fair,Electronics,WearableTechnology,-0.7855507868383405
+601,more than 500,999.0,499.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.5005005005005005
+602,more than 500,999.0,99.0,Good,Computers&Accessories,Accessories&Peripherals,-0.9009009009009009
+603,more than 500,1299.0,349.0,Fair,Electronics,Mobiles&Accessories,-0.7313317936874519
+604,more than 500,1500.0,475.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.6833333333333333
+605,more than 500,649.0,269.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5855161787365177
+606,more than 500,599.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5008347245409015
+607,more than 500,3999.0,1599.0,Fair,Electronics,WearableTechnology,-0.6001500375093773
+608,more than 500,7999.0,1499.0,Good,Electronics,WearableTechnology,-0.8126015751968996
+609,more than 500,999.0,329.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.6706706706706707
+610,more than 500,1799.0,549.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6948304613674263
+611,more than 500,9999.0,2199.0,Good,Electronics,WearableTechnology,-0.7800780078007801
+612,more than 500,650.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.54
+613,more than 500,1995.0,798.0,Fair,MusicalInstruments,Microphones,-0.6
+614,more than 500,1099.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6369426751592356
+615,between 50 and 500,315.0,266.0,Good,Electronics,GeneralPurposeBatteries&BatteryChargers,-0.15555555555555556
+616,between 50 and 500,50.0,50.0,Good,OfficeProducts,OfficePaperProducts,0.0
+617,between 50 and 500,165.0,130.0,Fair,Home&Kitchen,CraftMaterials,-0.21212121212121213
+618,more than 500,1290.0,449.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.6519379844961241
+619,more than 500,16999.0,3999.0,Good,Electronics,WearableTechnology,-0.7647508676980999
+620,more than 500,1290.0,399.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.6906976744186046
+621,more than 500,2498.0,1399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4399519615692554
+622,between 50 and 500,349.0,199.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.4297994269340974
+623,more than 500,999.0,199.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8008008008008008
+624,more than 500,5999.0,2998.0,Good,Electronics,WearableTechnology,-0.5002500416736123
+625,more than 500,4999.0,4098.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.1802360472094419
+626,more than 500,1999.0,499.0,Fair,Electronics,Cameras&Photography,-0.7503751875937968
+627,between 50 and 500,449.0,299.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.33407572383073497
+628,more than 500,699.0,329.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5293276108726752
+629,more than 500,999.0,699.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.3003003003003003
+630,more than 500,3990.0,799.0,Good,Electronics,Cameras&Photography,-0.799749373433584
+631,more than 500,5499.0,1399.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.745590107292235
+632,between 50 and 500,399.0,154.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6140350877192983
+633,more than 500,1350.0,519.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.6155555555555555
+634,more than 500,7990.0,2299.0,Good,Electronics,WearableTechnology,-0.7122653316645807
+635,more than 500,1999.0,399.0,Fair,Electronics,Mobiles&Accessories,-0.80040020010005
+636,more than 500,3990.0,1499.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.6243107769423559
+637,more than 500,1295.0,1295.0,Good,OfficeProducts,OfficeElectronics,0.0
+638,more than 500,5499.0,1889.0,Good,Computers&Accessories,NetworkingDevices,-0.6564829969085288
+639,more than 500,1490.0,455.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.6946308724832215
+640,more than 500,995.0,399.0,Fair,Electronics,Cameras&Photography,-0.5989949748743718
+641,more than 500,3999.0,1059.0,Good,Electronics,Accessories,-0.7351837959489872
+642,more than 500,1000.0,149.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.851
+643,more than 500,761.0,717.0,Fair,Computers&Accessories,"Printers,Inks&Accessories",-0.05781865965834428
+644,more than 500,999.0,99.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.9009009009009009
+645,between 50 and 500,299.0,39.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8695652173913043
+646,more than 500,2500.0,889.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.6444
+647,more than 500,4999.0,1199.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.7601520304060813
+648,more than 500,1299.0,569.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5619707467282525
+649,more than 500,8999.0,1499.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.833425936215135
+650,between 50 and 500,180.0,149.0,Good,Electronics,GeneralPurposeBatteries&BatteryChargers,-0.17222222222222222
+651,more than 500,549.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.273224043715847
+652,between 50 and 500,225.0,191.0,Good,Home&Kitchen,CraftMaterials,-0.1511111111111111
+653,more than 500,999.0,129.0,Good,Computers&Accessories,Accessories&Peripherals,-0.8708708708708709
+654,more than 500,599.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.667779632721202
+655,more than 500,4499.0,999.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.777950655701267
+656,more than 500,4499.0,899.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.8001778172927317
+657,more than 500,2499.0,1799.0,Good,Electronics,Mobiles&Accessories,-0.2801120448179272
+658,between 50 and 500,499.0,176.63,Good,Computers&Accessories,Accessories&Peripherals,-0.6460320641282565
+659,more than 500,550.0,522.0,Good,OfficeProducts,OfficeElectronics,-0.05090909090909091
+660,more than 500,1999.0,799.0,Fair,Electronics,Cameras&Photography,-0.6003001500750376
+661,more than 500,1199.0,681.0,Good,Computers&Accessories,Accessories&Peripherals,-0.43202668890742285
+662,more than 500,3490.0,1199.0,Good,Computers&Accessories,NetworkingDevices,-0.6564469914040114
+663,more than 500,4999.0,2499.0,Good,Computers&Accessories,NetworkingDevices,-0.5001000200040008
+664,more than 500,4999.0,1799.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.640128025605121
+665,more than 500,599.0,429.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.2838063439065108
+666,between 50 and 500,499.0,100.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7995991983967936
+667,between 50 and 500,399.0,329.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.17543859649122806
+668,between 50 and 500,299.0,229.0,Good,Computers&Accessories,Accessories&Peripherals,-0.23411371237458195
+669,between 50 and 500,299.0,139.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5351170568561873
+670,more than 500,2499.0,1199.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.5202080832332934
+671,more than 500,2299.0,1049.0,Fair,Electronics,HomeAudio,-0.5437146585471945
+672,between 50 and 500,299.0,119.0,Good,Electronics,Mobiles&Accessories,-0.6020066889632107
+673,between 50 and 500,339.0,154.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5457227138643068
+674,between 50 and 500,250.0,225.0,Good,Electronics,GeneralPurposeBatteries&BatteryChargers,-0.1
+675,more than 500,1499.0,656.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5623749166110741
+676,more than 500,2800.0,1109.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.6039285714285715
+677,more than 500,7990.0,2999.0,Good,Electronics,WearableTechnology,-0.6246558197747184
+678,between 50 and 500,299.0,169.0,Good,Computers&Accessories,Accessories&Peripherals,-0.43478260869565216
+679,between 50 and 500,404.0,309.0,Good,Computers&Accessories,"Printers,Inks&Accessories",-0.23514851485148514
+680,more than 500,1399.0,599.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.5718370264474625
+681,more than 500,599.0,299.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5008347245409015
+682,more than 500,999.0,449.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5505505505505506
+683,more than 500,1295.0,799.0,Good,Computers&Accessories,Accessories&Peripherals,-0.383011583011583
+684,more than 500,700.0,219.0,Good,Electronics,"HomeTheater,TV&Video",-0.6871428571428572
+685,between 50 and 500,160.0,157.0,Good,OfficeProducts,OfficePaperProducts,-0.01875
+686,more than 500,1600.0,369.0,Fair,Electronics,Accessories,-0.769375
+687,more than 500,899.0,599.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.3337041156840934
+688,more than 500,599.0,479.0,Good,Electronics,GeneralPurposeBatteries&BatteryChargers,-0.2003338898163606
+689,more than 500,899.0,350.0,Good,Computers&Accessories,Accessories&Peripherals,-0.610678531701891
+690,more than 500,2990.0,1598.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.46555183946488293
+691,more than 500,899.0,599.0,Good,Computers&Accessories,NetworkingDevices,-0.3337041156840934
+692,between 50 and 500,399.0,159.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6015037593984962
+693,more than 500,3000.0,1299.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.567
+694,more than 500,4999.0,1599.0,Fair,Electronics,WearableTechnology,-0.6801360272054411
+695,more than 500,4999.0,294.0,Good,Computers&Accessories,Accessories&Peripherals,-0.9411882376475295
+696,more than 500,861.0,828.0,Good,Computers&Accessories,"Printers,Inks&Accessories",-0.03832752613240418
+697,more than 500,795.0,745.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.06289308176100629
+698,more than 500,2495.0,1549.0,Good,Electronics,Cameras&Photography,-0.37915831663326655
+699,between 50 and 500,399.0,349.0,Good,Computers&Accessories,Accessories&Peripherals,-0.12531328320802004
+700,more than 500,1799.0,970.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4608115619788771
+701,more than 500,2499.0,1469.0,Good,Computers&Accessories,NetworkingDevices,-0.4121648659463786
+702,more than 500,800.0,198.0,Good,OfficeProducts,OfficePaperProducts,-0.7525
+703,more than 500,549.0,549.0,Good,Electronics,Cameras&Photography,0.0
+704,more than 500,9999.0,2999.0,Good,Electronics,WearableTechnology,-0.7000700070007001
+705,more than 500,29999.0,12000.0,Good,Electronics,WearableTechnology,-0.5999866662222074
+706,more than 500,3499.0,1299.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.6287510717347814
+707,between 50 and 500,315.0,269.0,Good,Electronics,GeneralPurposeBatteries&BatteryChargers,-0.14603174603174604
+708,more than 500,1499.0,799.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.466977985323549
+709,more than 500,13750.0,6299.0,Good,Computers&Accessories,Monitors,-0.5418909090909091
+710,between 50 and 500,59.0,59.0,Fair,Computers&Accessories,Accessories&Peripherals,0.0
+711,more than 500,999.0,571.0,Good,Electronics,Mobiles&Accessories,-0.42842842842842843
+712,more than 500,999.0,549.0,Fair,Electronics,HomeAudio,-0.45045045045045046
+713,more than 500,5999.0,2099.0,Good,Electronics,Mobiles&Accessories,-0.6501083513918986
+714,more than 500,21990.0,13490.0,Good,Electronics,"HomeTheater,TV&Video",-0.3865393360618463
+715,more than 500,699.0,448.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.3590844062947067
+716,more than 500,2999.0,1499.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.5001667222407469
+717,between 50 and 500,499.0,299.0,Good,Electronics,Cameras&Photography,-0.40080160320641284
+718,more than 500,1400.0,579.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.5864285714285714
+719,more than 500,3299.0,2499.0,Good,Electronics,Cameras&Photography,-0.24249772658381327
+720,more than 500,5999.0,1199.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.8001333555592599
+721,between 50 and 500,499.0,399.0,Good,Electronics,GeneralPurposeBatteries&BatteryChargers,-0.20040080160320642
+722,between 50 and 500,499.0,279.0,Fair,Electronics,"HomeTheater,TV&Video",-0.4408817635270541
+723,more than 500,22900.0,13490.0,Good,Electronics,"HomeTheater,TV&Video",-0.4109170305676856
+724,between 50 and 500,375.0,279.0,Good,Computers&Accessories,Accessories&Peripherals,-0.256
+725,more than 500,4999.0,2499.0,Fair,Electronics,WearableTechnology,-0.5001000200040008
+726,between 50 and 500,160.0,137.0,Good,OfficeProducts,OfficePaperProducts,-0.14375
+727,between 50 and 500,199.0,59.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7035175879396985
+728,between 50 and 500,499.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.40080160320641284
+729,more than 500,3999.0,1799.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.5501375343835959
+730,more than 500,2999.0,1999.0,Good,Electronics,HomeAudio,-0.33344448149383127
+731,more than 500,699.0,199.0,Good,Electronics,"HomeTheater,TV&Video",-0.7153075822603719
+732,more than 500,1499.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.733822548365577
+733,more than 500,3999.0,1699.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5751437859464866
+734,more than 500,995.0,699.0,Good,Computers&Accessories,Accessories&Peripherals,-0.2974874371859296
+735,between 50 and 500,499.0,95.0,Good,Electronics,Mobiles&Accessories,-0.8096192384769539
+736,more than 500,1699.0,1149.0,Good,Computers&Accessories,NetworkingDevices,-0.3237198351971748
+737,more than 500,1995.0,1495.0,Good,Computers&Accessories,Accessories&Peripherals,-0.2506265664160401
+738,more than 500,4999.0,849.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8301660332066413
+739,between 50 and 500,440.0,440.0,Good,OfficeProducts,OfficeElectronics,0.0
+740,more than 500,999.0,349.0,Fair,Electronics,Mobiles&Accessories,-0.6506506506506506
+741,more than 500,3999.0,599.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8502125531382846
+742,between 50 and 500,399.0,149.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6265664160401002
+743,more than 500,999.0,289.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7107107107107107
+744,between 50 and 500,499.0,179.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6412825651302605
+745,more than 500,4999.0,1499.0,Fair,Electronics,WearableTechnology,-0.7001400280056012
+746,more than 500,699.0,399.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.4291845493562232
+747,more than 500,799.0,599.0,Good,Computers&Accessories,Accessories&Peripherals,-0.2503128911138924
+748,more than 500,2000.0,949.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5255
+749,more than 500,9999.0,2499.0,Good,Electronics,WearableTechnology,-0.7500750075007501
+750,between 50 and 500,180.0,159.0,Good,Electronics,GeneralPurposeBatteries&BatteryChargers,-0.11666666666666667
+751,more than 500,2900.0,1329.0,Good,Electronics,Accessories,-0.5417241379310345
+752,more than 500,999.0,570.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4294294294294294
+753,more than 500,1999.0,899.0,Good,Electronics,HomeAudio,-0.5502751375687844
+754,more than 500,999.0,449.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5505505505505506
+755,more than 500,999.0,549.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.45045045045045046
+756,more than 500,2399.0,1529.0,Good,Computers&Accessories,NetworkingDevices,-0.3626511046269279
+757,between 50 and 500,100.0,100.0,Good,OfficeProducts,OfficePaperProducts,0.0
+758,more than 500,1499.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.800533689126084
+759,more than 500,1795.0,1295.0,Good,Computers&Accessories,Accessories&Peripherals,-0.2785515320334262
+760,more than 500,999.0,699.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.3003003003003003
+761,between 50 and 500,315.0,252.0,Good,OfficeProducts,OfficePaperProducts,-0.2
+762,between 50 and 500,220.0,190.0,Good,Electronics,GeneralPurposeBatteries&BatteryChargers,-0.13636363636363635
+763,more than 500,1599.0,1299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.18761726078799248
+764,more than 500,1650.0,729.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.5581818181818182
+765,more than 500,600.0,480.0,Good,OfficeProducts,OfficePaperProducts,-0.2
+766,more than 500,6990.0,1799.0,Fair,Electronics,WearableTechnology,-0.7426323319027182
+767,more than 500,2499.0,999.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6002400960384153
+768,between 50 and 500,399.0,299.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.2506265664160401
+769,more than 500,699.0,238.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6595135908440629
+770,more than 500,2198.0,1349.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.3862602365787079
+771,more than 500,999.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7007007007007007
+772,between 50 and 500,499.0,199.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6012024048096193
+773,more than 500,9999.0,1999.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.8000800080008
+774,between 50 and 500,499.0,99.0,Good,Electronics,Mobiles&Accessories,-0.8016032064128257
+775,more than 500,1000.0,499.0,Excellent,Computers&Accessories,Accessories&Peripherals,-0.501
+776,more than 500,3500.0,1792.0,Good,Computers&Accessories,Components,-0.488
+777,more than 500,4100.0,3299.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.1953658536585366
+778,between 50 and 500,180.0,125.0,Good,OfficeProducts,OfficePaperProducts,-0.3055555555555556
+779,more than 500,1190.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6647058823529411
+780,more than 500,7999.0,1199.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.8501062632829104
+781,more than 500,1599.0,235.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8530331457160726
+782,more than 500,1999.0,549.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7253626813406704
+783,between 50 and 500,99.0,89.0,Good,Computers&Accessories,Accessories&Peripherals,-0.10101010101010101
+784,more than 500,1999.0,970.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5147573786893447
+785,more than 500,2999.0,1299.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.5668556185395132
+786,more than 500,999.0,230.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7697697697697697
+787,between 50 and 500,499.0,119.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.7615230460921844
+788,more than 500,800.0,449.0,Good,Electronics,Accessories,-0.43875
+789,more than 500,3495.0,1699.0,Good,Electronics,Mobiles&Accessories,-0.5138769670958512
+790,more than 500,720.0,561.0,Good,OfficeProducts,OfficePaperProducts,-0.22083333333333333
+791,more than 500,590.0,289.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5101694915254237
+792,more than 500,1999.0,599.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7003501750875438
+793,more than 500,7350.0,5599.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.2382312925170068
+794,more than 500,2595.0,1990.0,Good,Computers&Accessories,Accessories&Peripherals,-0.23314065510597304
+795,more than 500,799.0,499.0,Good,Computers&Accessories,Accessories&Peripherals,-0.37546933667083854
+796,more than 500,999.0,449.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5505505505505506
+797,more than 500,1999.0,999.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5002501250625313
+798,between 50 and 500,299.0,69.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7692307692307693
+799,more than 500,1499.0,899.0,Good,Computers&Accessories,Accessories&Peripherals,-0.400266844563042
+800,more than 500,699.0,478.0,Fair,MusicalInstruments,Microphones,-0.31616595135908443
+801,more than 500,2490.0,1399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.43815261044176707
+802,more than 500,750.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7346666666666667
+803,between 50 and 500,499.0,149.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7014028056112225
+804,more than 500,4990.0,1799.0,Good,Electronics,HomeAudio,-0.6394789579158316
+805,more than 500,999.0,425.0,Fair,HomeImprovement,Electrical,-0.5745745745745746
+806,more than 500,2490.0,999.0,Good,Electronics,HomeAudio,-0.5987951807228916
+807,more than 500,999.0,378.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6216216216216216
+808,between 50 and 500,99.0,99.0,Good,OfficeProducts,OfficePaperProducts,0.0
+809,more than 500,2999.0,1499.0,Good,Computers&Accessories,NetworkingDevices,-0.5001667222407469
+810,more than 500,3100.0,1815.0,Good,Computers&Accessories,Components,-0.41451612903225804
+811,between 50 and 500,75.0,67.0,Good,OfficeProducts,OfficePaperProducts,-0.10666666666666667
+812,more than 500,2699.0,1889.0,Good,Computers&Accessories,Accessories&Peripherals,-0.30011115227862173
+813,more than 500,1499.0,499.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.66711140760507
+814,more than 500,999.0,499.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5005005005005005
+815,more than 500,7999.0,5799.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.2750343792974122
+816,more than 500,799.0,499.0,Fair,Electronics,HomeAudio,-0.37546933667083854
+817,more than 500,600.0,249.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.585
+818,between 50 and 500,499.0,179.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6412825651302605
+819,more than 500,5734.0,4449.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.2241018486222532
+820,more than 500,550.0,299.0,Excellent,Computers&Accessories,Accessories&Peripherals,-0.45636363636363636
+821,more than 500,1390.0,629.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5474820143884892
+822,more than 500,3295.0,2595.0,Good,Computers&Accessories,Accessories&Peripherals,-0.212443095599393
+823,more than 500,1099.0,389.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6460418562329391
+824,more than 500,2911.0,1799.0,Good,Computers&Accessories,NetworkingDevices,-0.38199931295087597
+825,between 50 and 500,175.0,90.0,Good,OfficeProducts,OfficePaperProducts,-0.4857142857142857
+826,more than 500,599.0,599.0,Fair,Computers&Accessories,Accessories&Peripherals,0.0
+827,more than 500,7999.0,1999.0,Good,Electronics,WearableTechnology,-0.750093761720215
+828,more than 500,3250.0,2099.0,Fair,Computers&Accessories,NetworkingDevices,-0.35415384615384615
+829,between 50 and 500,499.0,179.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6412825651302605
+830,more than 500,2295.0,1345.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4139433551198257
+831,more than 500,995.0,349.0,Good,Electronics,Cameras&Photography,-0.6492462311557788
+832,between 50 and 500,499.0,287.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4248496993987976
+833,more than 500,599.0,599.0,Good,Computers&Accessories,Accessories&Peripherals,0.0
+834,between 50 and 500,450.0,349.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.22444444444444445
+835,more than 500,1109.0,879.0,Good,Electronics,GeneralPurposeBatteries&BatteryChargers,-0.2073940486925158
+836,more than 500,999.0,199.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8008008008008008
+837,between 50 and 500,250.0,250.0,Fair,Electronics,GeneralPurposeBatteries&BatteryChargers,0.0
+838,between 50 and 500,499.0,199.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.6012024048096193
+839,more than 500,1900.0,899.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5268421052631579
+840,more than 500,999.0,199.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8008008008008008
+841,more than 500,999.0,149.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8508508508508509
+842,more than 500,1499.0,469.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6871247498332221
+843,more than 500,1929.0,1187.0,Good,Computers&Accessories,Accessories&Peripherals,-0.3846552617936755
+844,more than 500,1499.0,849.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.4336224149432955
+845,between 50 and 500,399.0,328.0,Good,Computers&Accessories,Accessories&Peripherals,-0.17794486215538846
+846,more than 500,699.0,269.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6151645207439199
+847,between 50 and 500,400.0,299.0,Fair,Electronics,Cameras&Photography,-0.2525
+848,more than 500,1499.0,549.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6337558372248165
+849,between 50 and 500,120.0,114.0,Good,OfficeProducts,OfficePaperProducts,-0.05
+850,between 50 and 500,120.0,120.0,Good,OfficeProducts,OfficePaperProducts,0.0
+851,more than 500,1999.0,970.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5147573786893447
+852,more than 500,695.0,209.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6992805755395683
+853,more than 500,2295.0,1490.0,Excellent,Computers&Accessories,Accessories&Peripherals,-0.35076252723311546
+854,between 50 and 500,99.0,99.0,Good,Home&Kitchen,CraftMaterials,0.0
+855,between 50 and 500,249.0,149.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.40160642570281124
+856,more than 500,2799.0,575.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7945694891032512
+857,more than 500,999.0,333.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6666666666666666
+858,between 50 and 500,210.0,178.0,Good,OfficeProducts,OfficePaperProducts,-0.1523809523809524
+859,more than 500,3490.0,1599.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.5418338108882521
+860,more than 500,1299.0,499.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.6158583525789069
+861,between 50 and 500,499.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6012024048096193
+862,more than 500,5999.0,2499.0,Good,Electronics,WearableTechnology,-0.5834305717619603
+863,more than 500,999.0,199.0,Good,Computers&Accessories,Components,-0.8008008008008008
+864,more than 500,1800.0,939.0,Good,Electronics,Accessories,-0.47833333333333333
+865,more than 500,9999.0,2499.0,Fair,Electronics,WearableTechnology,-0.7500750075007501
+866,more than 500,2890.0,1439.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5020761245674741
+867,more than 500,5999.0,1099.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.8168028004667445
+868,between 50 and 500,160.0,157.0,Good,OfficeProducts,OfficePaperProducts,-0.01875
+869,more than 500,1599.0,999.0,Good,Computers&Accessories,NetworkingDevices,-0.37523452157598497
+870,more than 500,999.0,115.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8848848848848849
+871,between 50 and 500,499.0,175.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6492985971943888
+872,more than 500,4700.0,1999.0,Fair,Electronics,Cameras&Photography,-0.5746808510638298
+873,more than 500,4332.96,3999.0,Fair,Computers&Accessories,"Printers,Inks&Accessories",-0.07707433255788192
+874,more than 500,1800.0,899.0,Good,Computers&Accessories,NetworkingDevices,-0.5005555555555555
+875,more than 500,990.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.697979797979798
+876,more than 500,4699.0,3303.0,Good,Computers&Accessories,Accessories&Peripherals,-0.297084486060864
+877,more than 500,5490.0,1890.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6557377049180327
+878,between 50 and 500,100.0,90.0,Good,OfficeProducts,OfficePaperProducts,-0.1
+879,more than 500,2790.0,1599.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.4268817204301075
+880,more than 500,999.0,599.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.4004004004004004
+881,more than 500,1208.0,507.0,Good,Computers&Accessories,NetworkingDevices,-0.5802980132450332
+882,more than 500,899.0,425.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5272525027808677
+883,more than 500,3999.0,1499.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.6251562890722681
+884,more than 500,2499.0,549.0,Good,Computers&Accessories,Accessories&Peripherals,-0.78031212484994
+885,between 50 and 500,395.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4962025316455696
+886,more than 500,1645.0,1295.0,Excellent,Computers&Accessories,Accessories&Peripherals,-0.2127659574468085
+887,between 50 and 500,310.0,310.0,Good,Home&Kitchen,CraftMaterials,0.0
+888,between 50 and 500,149.0,149.0,Good,Computers&Accessories,Accessories&Peripherals,0.0
+889,more than 500,1499.0,1149.0,Good,Computers&Accessories,Accessories&Peripherals,-0.2334889926617745
+890,more than 500,1299.0,499.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6158583525789069
+891,more than 500,4199.0,999.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.7620862110026196
+892,more than 500,4000.0,1709.0,Good,Computers&Accessories,Components,-0.57275
+893,between 50 and 500,250.0,250.0,Good,OfficeProducts,OfficePaperProducts,0.0
+894,more than 500,2199.0,1199.0,Good,Computers&Accessories,NetworkingDevices,-0.45475216007276037
+895,between 50 and 500,100.0,90.0,Good,Home&Kitchen,CraftMaterials,-0.1
+896,more than 500,5999.0,2025.0,Good,Electronics,Mobiles&Accessories,-0.6624437406234372
+897,more than 500,1995.0,1495.0,Good,Computers&Accessories,Accessories&Peripherals,-0.2506265664160401
+898,more than 500,2100.0,799.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6195238095238095
+899,more than 500,1199.0,899.0,Fair,Electronics,HomeAudio,-0.25020850708924103
+900,more than 500,999.0,349.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6506506506506506
+901,more than 500,2499.0,900.0,Fair,Electronics,Mobiles&Accessories,-0.6398559423769508
+902,more than 500,3990.0,2490.0,Good,Electronics,Cameras&Photography,-0.37593984962406013
+903,between 50 and 500,200.0,116.0,Good,Electronics,GeneralPurposeBatteries&BatteryChargers,-0.42
+904,between 50 and 500,230.0,200.0,Good,Home&Kitchen,CraftMaterials,-0.13043478260869565
+905,more than 500,2796.0,1249.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5532904148783977
+906,more than 500,999.0,649.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.35035035035035034
+907,more than 500,3499.0,2649.0,Good,Computers&Accessories,Accessories&Peripherals,-0.2429265504429837
+908,between 50 and 500,349.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4297994269340974
+909,more than 500,723.0,596.0,Good,Computers&Accessories,"Printers,Inks&Accessories",-0.17565698478561548
+910,more than 500,5999.0,2499.0,Good,Electronics,WearableTechnology,-0.5834305717619603
+911,more than 500,12499.0,4999.0,Good,Electronics,HomeAudio,-0.6000480038403072
+912,more than 500,1290.0,399.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.6906976744186046
+913,between 50 and 500,200.0,116.0,Good,Electronics,GeneralPurposeBatteries&BatteryChargers,-0.42
+914,more than 500,5999.0,4499.0,Good,Electronics,Cameras&Photography,-0.2500416736122687
+915,between 50 and 500,499.0,330.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.33867735470941884
+916,more than 500,2499.0,649.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.740296118447379
+917,more than 500,1599.0,1234.0,Good,Computers&Accessories,Accessories&Peripherals,-0.22826766729205752
+918,more than 500,2990.0,1399.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.5321070234113713
+919,between 50 and 500,320.0,272.0,Fair,OfficeProducts,OfficePaperProducts,-0.15
+920,more than 500,999.0,99.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.9009009009009009
+921,more than 500,3875.0,3498.0,Fair,Computers&Accessories,"Printers,Inks&Accessories",-0.09729032258064516
+922,more than 500,19110.0,10099.0,Good,Computers&Accessories,Monitors,-0.4715332286760858
+923,more than 500,999.0,449.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5505505505505506
+924,between 50 and 500,150.0,150.0,Good,Toys&Games,Arts&Crafts,0.0
+925,more than 500,1499.0,348.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7678452301534356
+926,more than 500,2999.0,1199.0,Good,Computers&Accessories,NetworkingDevices,-0.6002000666888962
+927,more than 500,899.0,397.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5583982202447163
+928,between 50 and 500,349.0,154.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5587392550143266
+929,more than 500,1490.0,699.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5308724832214765
+930,more than 500,1999.0,1679.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.16008004002001
+931,more than 500,1500.0,354.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.764
+932,more than 500,5499.0,1199.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7819603564284415
+933,more than 500,1499.0,379.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7471647765176784
+934,more than 500,775.0,499.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.3561290322580645
+935,more than 500,32000.0,10389.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.67534375
+936,more than 500,1300.0,649.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5007692307692307
+937,more than 500,1999.0,1199.0,Good,Computers&Accessories,NetworkingDevices,-0.400200100050025
+938,more than 500,999.0,139.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.8608608608608609
+939,more than 500,1999.0,889.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.5552776388194097
+940,more than 500,2199.0,1409.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.3592542064574807
+941,more than 500,1999.0,549.0,Good,Computers&Accessories,"Printers,Inks&Accessories",-0.7253626813406704
+942,more than 500,1799.0,749.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5836575875486382
+943,more than 500,845.0,329.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6106508875739645
+944,more than 500,1099.0,379.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6551410373066424
+945,more than 500,7999.0,5998.0,Good,Electronics,WearableTechnology,-0.2501562695336917
+946,more than 500,1499.0,299.0,Good,Computers&Accessories,Accessories&Peripherals,-0.800533689126084
+947,more than 500,1499.0,379.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7471647765176784
+948,more than 500,2999.0,1399.0,Good,OfficeProducts,OfficePaperProducts,-0.5335111703901301
+949,more than 500,1299.0,699.0,Good,Electronics,Cameras&Photography,-0.4618937644341801
+950,between 50 and 500,300.0,300.0,Good,OfficeProducts,OfficePaperProducts,0.0
+951,more than 500,1995.0,999.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4992481203007519
+952,more than 500,535.0,535.0,Good,OfficeProducts,OfficeElectronics,0.0
+953,more than 500,24999.0,13999.0,Good,Electronics,"HomeTheater,TV&Video",-0.4400176007040282
+954,more than 500,1099.0,269.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7552320291173794
+955,between 50 and 500,450.0,341.0,Good,OfficeProducts,OfficePaperProducts,-0.24222222222222223
+956,more than 500,3999.0,2499.0,Good,Computers&Accessories,NetworkingDevices,-0.37509377344336087
+957,more than 500,599.0,349.0,Good,Computers&Accessories,Accessories&Peripherals,-0.41736227045075125
+958,more than 500,7005.0,5899.0,Fair,Computers&Accessories,"Printers,Inks&Accessories",-0.1578872234118487
+959,more than 500,1199.0,699.0,Fair,Electronics,Mobiles&Accessories,-0.4170141784820684
+960,more than 500,2999.0,1565.0,Fair,Computers&Accessories,NetworkingDevices,-0.47815938646215406
+961,more than 500,799.0,326.0,Good,Electronics,Cameras&Photography,-0.5919899874843555
+962,more than 500,999.0,120.0,Fair,Electronics,"Headphones,Earbuds&Accessories",-0.8798798798798799
+963,more than 500,999.0,657.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.34234234234234234
+964,more than 500,2895.0,1995.0,Excellent,Computers&Accessories,Accessories&Peripherals,-0.31088082901554404
+965,more than 500,1500.0,1500.0,Good,Electronics,GeneralPurposeBatteries&BatteryChargers,0.0
+966,more than 500,3195.0,2640.0,Good,Computers&Accessories,Accessories&Peripherals,-0.17370892018779344
+967,more than 500,6355.0,5299.0,Fair,Computers&Accessories,"Printers,Inks&Accessories",-0.16616837136113297
+968,more than 500,699.0,263.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6237482117310443
+969,more than 500,2999.0,1990.0,Good,Computers&Accessories,Accessories&Peripherals,-0.33644548182727574
+970,more than 500,1499.0,1289.0,Good,Electronics,PowerAccessories,-0.1400933955970647
+971,between 50 and 500,165.0,165.0,Good,OfficeProducts,OfficePaperProducts,0.0
+972,more than 500,3499.0,1699.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5144326950557302
+973,more than 500,7500.0,2299.0,Good,Electronics,Cameras&Photography,-0.6934666666666667
+974,more than 500,700.0,219.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6871428571428572
+975,less than 50,39.0,39.0,Fair,Computers&Accessories,Accessories&Peripherals,0.0
+976,more than 500,37999.0,26999.0,Excellent,Computers&Accessories,Tablets,-0.28948130213953
+977,more than 500,1990.0,1490.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.25125628140703515
+978,more than 500,1949.0,398.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7957927142124166
+979,more than 500,899.0,349.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6117908787541713
+980,more than 500,1547.0,770.0,Good,Computers&Accessories,Accessories&Peripherals,-0.502262443438914
+981,more than 500,1299.0,279.0,Fair,Electronics,Mobiles&Accessories,-0.7852193995381063
+982,more than 500,599.0,249.0,Good,HomeImprovement,Electrical,-0.5843071786310517
+983,between 50 and 500,499.0,115.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.7695390781563126
+984,between 50 and 500,230.0,230.0,Good,Home&Kitchen,CraftMaterials,0.0
+985,more than 500,999.0,399.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6006006006006006
+986,more than 500,700.0,599.0,Good,Computers&Accessories,Accessories&Peripherals,-0.1442857142857143
+987,more than 500,1150.0,598.0,Good,Computers&Accessories,"Printers,Inks&Accessories",-0.48
+988,more than 500,1499.0,399.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.733822548365577
+989,more than 500,1299.0,499.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6158583525789069
+990,between 50 and 500,499.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.6012024048096193
+991,more than 500,1090.0,579.0,Good,Computers&Accessories,Accessories&Peripherals,-0.4688073394495413
+992,between 50 and 500,399.0,179.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5513784461152882
+993,between 50 and 500,100.0,90.0,Good,OfficeProducts,OfficePaperProducts,-0.1
+994,more than 500,1999.0,899.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5502751375687844
+995,more than 500,1800.0,1149.0,Good,Computers&Accessories,Accessories&Peripherals,-0.3616666666666667
+996,between 50 and 500,499.0,249.0,Good,Computers&Accessories,Accessories&Peripherals,-0.501002004008016
+997,less than 50,39.0,39.0,Fair,Computers&Accessories,Accessories&Peripherals,0.0
+998,more than 500,3599.0,1599.0,Good,Computers&Accessories,NetworkingDevices,-0.5557099194220617
+999,more than 500,3990.0,1199.0,Good,Electronics,HomeAudio,-0.699498746867168
+1000,between 50 and 500,499.0,209.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.5811623246492986
+1001,more than 500,1499.0,1099.0,Good,Computers&Accessories,Accessories&Peripherals,-0.266844563042028
+1002,between 50 and 500,120.0,120.0,Good,OfficeProducts,OfficePaperProducts,0.0
+1003,more than 500,3499.0,1519.0,Good,Computers&Accessories,Accessories&Peripherals,-0.5658759645613032
+1004,between 50 and 500,420.0,420.0,Good,OfficeProducts,OfficePaperProducts,0.0
+1005,between 50 and 500,225.0,225.0,Good,OfficeProducts,OfficePaperProducts,0.0
+1006,more than 500,799.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7509386733416771
+1007,more than 500,3999.0,1799.0,Excellent,Electronics,Mobiles&Accessories,-0.5501375343835959
+1008,more than 500,9625.0,8349.0,Fair,Computers&Accessories,"Printers,Inks&Accessories",-0.13257142857142856
+1009,more than 500,6100.0,3307.0,Good,Computers&Accessories,Components,-0.4578688524590164
+1010,more than 500,1299.0,325.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7498075442648191
+1011,more than 500,1300.0,449.0,Good,Computers&Accessories,ExternalDevices&DataStorage,-0.6546153846153846
+1012,between 50 and 500,400.0,380.0,Good,Electronics,GeneralPurposeBatteries&BatteryChargers,-0.05
+1013,more than 500,1399.0,499.0,Fair,Computers&Accessories,Accessories&Peripherals,-0.6433166547533953
+1014,more than 500,59890.0,37247.0,Fair,Computers&Accessories,Laptops,-0.37807647353481383
+1015,more than 500,2490.0,849.0,Good,Electronics,"Headphones,Earbuds&Accessories",-0.6590361445783133
+1016,more than 500,1999.0,799.0,Fair,Electronics,HomeAudio,-0.6003001500750376
+1017,more than 500,6999.0,2599.0,Good,Electronics,Mobiles&Accessories,-0.6286612373196171
+1018,more than 500,999.0,199.0,Good,Computers&Accessories,Accessories&Peripherals,-0.8008008008008008
+1019,more than 500,800.0,269.0,Fair,Computers&Accessories,NetworkingDevices,-0.66375
+1020,more than 500,999.0,298.0,Good,Computers&Accessories,Accessories&Peripherals,-0.7017017017017017
+1021,more than 500,2999.0,1499.0,Good,Electronics,HomeAudio,-0.5001667222407469
+1022,more than 500,1245.0,649.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.478714859437751
+1023,more than 500,1695.0,1199.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.2926253687315634
+1024,more than 500,2000.0,1199.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4005
+1025,more than 500,999.0,455.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5445445445445446
+1026,more than 500,1999.0,199.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.9004502251125562
+1027,between 50 and 500,499.0,293.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.41282565130260523
+1028,between 50 and 500,495.0,199.0,Good,Home&Kitchen,Kitchen&Dining,-0.597979797979798
+1029,more than 500,1245.0,749.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.39839357429718875
+1030,more than 500,1549.0,1399.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.09683666881859264
+1031,more than 500,1445.0,749.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.48166089965397924
+1032,more than 500,3193.0,1699.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.46789852803006576
+1033,more than 500,1345.0,1043.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.2245353159851301
+1034,more than 500,999.0,499.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5005005005005005
+1035,more than 500,1650.0,1464.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.11272727272727273
+1036,between 50 and 500,499.0,249.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.501002004008016
+1037,more than 500,1400.0,625.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5535714285714286
+1038,more than 500,2500.0,1290.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.484
+1039,more than 500,6190.0,3600.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4184168012924071
+1040,more than 500,13999.0,6549.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5321808700621473
+1041,more than 500,2995.0,1625.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.4574290484140234
+1042,more than 500,5890.0,2599.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5587436332767403
+1043,more than 500,2000.0,1199.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4005
+1044,more than 500,13150.0,5499.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5818250950570342
+1045,more than 500,3500.0,1299.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.6288571428571429
+1046,more than 500,785.0,599.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.23694267515923567
+1047,more than 500,3210.0,1999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.37725856697819315
+1048,more than 500,1000.0,549.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.451
+1049,more than 500,2000.0,999.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5005
+1050,more than 500,1999.0,398.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.8009004502251126
+1051,more than 500,720.0,539.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.2513888888888889
+1052,more than 500,1595.0,699.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.561755485893417
+1053,more than 500,3645.0,2148.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.41069958847736626
+1054,more than 500,7950.0,3599.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5472955974842767
+1055,more than 500,999.0,351.0,Fair,Home&Kitchen,HomeStorage&Organization,-0.6486486486486487
+1056,more than 500,1745.0,1614.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.07507163323782234
+1057,more than 500,1295.0,719.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.44478764478764476
+1058,more than 500,1499.0,678.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5476984656437625
+1059,more than 500,1545.0,809.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.47637540453074434
+1060,more than 500,5000.0,1969.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.6062
+1061,more than 500,1695.0,1490.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.12094395280235988
+1062,more than 500,3945.0,2499.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.3665399239543726
+1063,more than 500,2099.0,1665.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.2067651262505955
+1064,more than 500,5295.0,3229.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.39017941454202076
+1065,more than 500,3595.0,1799.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4995827538247566
+1066,more than 500,1699.0,1260.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.2583872866391995
+1067,more than 500,1129.0,749.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.3365810451727192
+1068,more than 500,5795.0,3499.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.39620362381363244
+1069,more than 500,999.0,379.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.6206206206206206
+1070,more than 500,2400.0,1099.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5420833333333334
+1071,more than 500,1299.0,749.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.42340261739799845
+1072,more than 500,1299.0,1299.0,Good,Home&Kitchen,Kitchen&HomeAppliances,0.0
+1073,more than 500,1090.0,549.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.4963302752293578
+1074,more than 500,2000.0,899.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5505
+1075,more than 500,1545.0,1321.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.14498381877022654
+1076,more than 500,1999.0,1099.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4502251125562781
+1077,more than 500,875.0,775.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.11428571428571428
+1078,more than 500,15270.0,6299.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5874918140144073
+1079,more than 500,4195.0,3190.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.2395709177592372
+1080,more than 500,1989.0,799.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5982905982905983
+1081,more than 500,5000.0,2699.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4602
+1082,more than 500,990.0,599.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.39494949494949494
+1083,more than 500,1111.0,749.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.3258325832583258
+1084,more than 500,10400.0,6199.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4039423076923077
+1085,more than 500,2490.0,1819.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.26947791164658635
+1086,more than 500,1900.0,1199.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.36894736842105263
+1087,more than 500,6295.0,3249.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.48387609213661636
+1088,more than 500,999.0,349.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.6506506506506506
+1089,more than 500,1699.0,1049.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.3825779870512066
+1090,more than 500,1500.0,799.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.4673333333333333
+1091,more than 500,9650.0,4999.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.48196891191709845
+1092,more than 500,10590.0,6999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.33909348441926346
+1093,more than 500,1999.0,799.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.6003001500750376
+1094,between 50 and 500,89.0,89.0,Good,Home&Kitchen,Kitchen&HomeAppliances,0.0
+1095,more than 500,2485.0,1400.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.43661971830985913
+1096,more than 500,899.0,355.0,Good,Home&Kitchen,HomeStorage&Organization,-0.6051167964404894
+1097,more than 500,3279.0,2169.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.33851784080512354
+1098,more than 500,3799.0,2799.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.26322716504343247
+1099,more than 500,1249.0,899.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.28022417934347477
+1100,more than 500,5000.0,2499.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5002
+1101,more than 500,7299.0,3599.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5069187559939717
+1102,more than 500,625.0,499.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.2016
+1103,more than 500,1020.0,653.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.35980392156862745
+1104,more than 500,8990.0,4789.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.4672969966629588
+1105,more than 500,1639.0,1409.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.1403294691885296
+1106,more than 500,899.0,753.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.16240266963292546
+1107,more than 500,1199.0,353.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.7055879899916597
+1108,more than 500,1899.0,1099.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.421274354923644
+1109,more than 500,11595.0,8799.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.24113842173350583
+1110,more than 500,1750.0,1345.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.23142857142857143
+1111,more than 500,2095.0,2095.0,Good,Home&Kitchen,Kitchen&HomeAppliances,0.0
+1112,more than 500,2300.0,1498.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.348695652173913
+1113,more than 500,2990.0,2199.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.2645484949832776
+1114,more than 500,4295.0,3699.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.13876600698486613
+1115,between 50 and 500,199.0,177.0,Good,Home&Kitchen,HomeStorage&Organization,-0.11055276381909548
+1116,more than 500,2499.0,1149.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5402160864345739
+1117,between 50 and 500,499.0,244.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5110220440881763
+1118,more than 500,2400.0,1959.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.18375
+1119,more than 500,749.0,319.0,Excellent,Home&Kitchen,Kitchen&HomeAppliances,-0.5740987983978638
+1120,more than 500,1775.0,1499.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.15549295774647887
+1121,more than 500,1599.0,469.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.7066916823014384
+1122,more than 500,1795.0,1099.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.38774373259052924
+1123,more than 500,15999.0,9590.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4005875367210451
+1124,more than 500,1490.0,999.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.3295302013422819
+1125,more than 500,1999.0,1299.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.3501750875437719
+1126,between 50 and 500,499.0,292.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.4148296593186373
+1127,between 50 and 500,299.0,160.0,Excellent,Home&Kitchen,Kitchen&HomeAppliances,-0.46488294314381273
+1128,more than 500,600.0,600.0,Good,Home&Kitchen,Kitchen&HomeAppliances,0.0
+1129,more than 500,1130.0,1130.0,Good,Home&Kitchen,Kitchen&HomeAppliances,0.0
+1130,more than 500,6295.0,3249.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.48387609213661636
+1131,more than 500,9455.0,3599.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.6193548387096774
+1132,more than 500,699.0,368.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.47353361945636624
+1133,more than 500,4999.0,3199.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.36007201440288056
+1134,more than 500,2900.0,1599.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.44862068965517243
+1135,more than 500,2499.0,1999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.2000800320128051
+1136,more than 500,1190.0,616.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.4823529411764706
+1137,more than 500,2100.0,1499.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.2861904761904762
+1138,between 50 and 500,499.0,199.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.6012024048096193
+1139,more than 500,825.0,610.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.2606060606060606
+1140,more than 500,1499.0,999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.333555703802535
+1141,more than 500,9995.0,8999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.09964982491245623
+1142,more than 500,999.0,453.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5465465465465466
+1143,more than 500,6000.0,2464.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5893333333333334
+1144,more than 500,3945.0,2719.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.31077313054499367
+1145,more than 500,1999.0,1439.0,Excellent,Home&Kitchen,"Heating,Cooling&AirQuality",-0.2801400700350175
+1146,more than 500,3499.0,2799.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.20005715918833952
+1147,more than 500,5550.0,2088.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.6237837837837837
+1148,more than 500,4590.0,2399.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.47734204793028323
+1149,between 50 and 500,499.0,308.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.38276553106212424
+1150,more than 500,4400.0,2599.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4093181818181818
+1151,more than 500,1000.0,479.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.521
+1152,between 50 and 500,299.0,245.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.1806020066889632
+1153,more than 500,799.0,179.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.7759699624530664
+1154,more than 500,5190.0,3569.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.31233140655105973
+1155,more than 500,1345.0,699.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.48029739776951674
+1156,more than 500,4000.0,2089.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.47775
+1157,more than 500,4000.0,2339.0,Fair,Car&Motorbike,CarAccessories,-0.41525
+1158,more than 500,1599.0,784.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5096935584740463
+1159,more than 500,9999.0,5499.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.45004500450045004
+1160,more than 500,1990.0,899.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5482412060301508
+1161,more than 500,1695.0,1695.0,Good,Home&Kitchen,Kitchen&HomeAppliances,0.0
+1162,more than 500,940.0,499.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.46914893617021275
+1163,more than 500,4700.0,2699.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4257446808510638
+1164,more than 500,2999.0,1448.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5171723907969323
+1165,between 50 and 500,79.0,79.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,0.0
+1166,more than 500,14290.0,6990.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5108467459762072
+1167,more than 500,3945.0,2698.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.31609632446134345
+1168,more than 500,5999.0,3199.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.46674445740956827
+1169,more than 500,1950.0,1199.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.3851282051282051
+1170,more than 500,2799.0,1414.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4948195784208646
+1171,more than 500,1950.0,999.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4876923076923077
+1172,more than 500,9999.0,5999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.4000400040004
+1173,more than 500,12999.0,9970.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.23301792445572736
+1174,more than 500,699.0,698.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.001430615164520744
+1175,more than 500,3190.0,2199.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.31065830721003135
+1176,more than 500,799.0,320.0,Good,Home&Kitchen,HomeStorage&Organization,-0.5994993742177722
+1177,between 50 and 500,499.0,298.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.4028056112224449
+1178,more than 500,1499.0,1199.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.200133422281521
+1179,more than 500,2660.0,1399.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.47406015037593985
+1180,more than 500,2799.0,599.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.7859949982136477
+1181,more than 500,1499.0,1499.0,Good,Home&Kitchen,Kitchen&HomeAppliances,0.0
+1182,more than 500,59900.0,14400.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.7595993322203672
+1183,more than 500,1900.0,1699.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.10578947368421053
+1184,more than 500,999.0,649.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.35035035035035034
+1185,more than 500,6375.0,3249.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4903529411764706
+1186,between 50 and 500,499.0,199.0,Good,Home&Kitchen,HomeStorage&Organization,-0.6012024048096193
+1187,more than 500,1899.0,1099.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.421274354923644
+1188,more than 500,1490.0,664.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5543624161073826
+1189,between 50 and 500,350.0,260.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.2571428571428571
+1190,more than 500,8500.0,6499.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.23541176470588235
+1191,more than 500,2499.0,1484.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4061624649859944
+1192,more than 500,1560.0,999.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.3596153846153846
+1193,more than 500,6500.0,3299.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.49246153846153845
+1194,more than 500,999.0,259.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.7407407407407407
+1195,more than 500,7795.0,3249.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5831943553559974
+1196,more than 500,5995.0,4280.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.28607172643869894
+1197,between 50 and 500,299.0,189.0,Good,Home&Kitchen,HomeStorage&Organization,-0.36789297658862874
+1198,more than 500,2349.0,1449.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.3831417624521073
+1199,between 50 and 500,499.0,199.0,Fair,Home&Kitchen,HomeStorage&Organization,-0.6012024048096193
+1200,more than 500,1299.0,474.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.6351039260969977
+1201,between 50 and 500,499.0,279.0,Excellent,Home&Kitchen,Kitchen&HomeAppliances,-0.4408817635270541
+1202,more than 500,4775.0,1999.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5813612565445027
+1203,more than 500,1230.0,799.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.35040650406504065
+1204,more than 500,1999.0,949.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5252626313156579
+1205,more than 500,5156.0,3657.66,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.29060124127230413
+1206,more than 500,1999.0,1699.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.1500750375187594
+1207,more than 500,2095.0,1849.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.11742243436754177
+1208,more than 500,19825.0,12499.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.36953341740226986
+1209,more than 500,1920.0,1099.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.4276041666666667
+1210,more than 500,16000.0,8199.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4875625
+1211,more than 500,2199.0,499.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.7730786721236926
+1212,more than 500,14999.0,6999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5333688912594173
+1213,more than 500,1799.0,1595.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.11339633129516398
+1214,more than 500,1950.0,1049.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.46205128205128204
+1215,more than 500,2995.0,1182.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.6053422370617696
+1216,more than 500,999.0,499.0,Excellent,Home&Kitchen,Kitchen&HomeAppliances,-0.5005005005005005
+1217,more than 500,11995.0,8799.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.26644435181325554
+1218,more than 500,2999.0,1529.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.490163387795932
+1219,more than 500,1690.0,1199.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.29053254437869824
+1220,more than 500,1790.0,1052.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.4122905027932961
+1221,more than 500,8995.0,6499.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.2774874930516954
+1222,between 50 and 500,239.0,239.0,Good,Home&Kitchen,Kitchen&HomeAppliances,0.0
+1223,more than 500,1599.0,699.0,Excellent,Home&Kitchen,Kitchen&HomeAppliances,-0.5628517823639775
+1224,more than 500,4290.0,2599.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.39417249417249417
+1225,more than 500,2890.0,1547.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4647058823529412
+1226,more than 500,1299.0,499.0,Excellent,Home&Kitchen,Kitchen&HomeAppliances,-0.6158583525789069
+1227,more than 500,640.0,510.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.203125
+1228,more than 500,3790.0,1899.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4989445910290237
+1229,more than 500,4560.0,2599.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4300438596491228
+1230,more than 500,3500.0,1199.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.6574285714285715
+1231,more than 500,2600.0,999.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.6157692307692307
+1232,more than 500,3300.0,1999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.3942424242424242
+1233,more than 500,699.0,210.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.6995708154506438
+1234,more than 500,23559.0,14499.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.3845664077422641
+1235,more than 500,1599.0,950.0,Good,Home&Kitchen,HomeStorage&Organization,-0.4058786741713571
+1236,more than 500,9995.0,7199.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.27973986993496747
+1237,more than 500,2545.0,2439.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.04165029469548134
+1238,more than 500,8995.0,7799.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.1329627570872707
+1239,more than 500,1999.0,1599.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.2001000500250125
+1240,more than 500,5500.0,2899.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4729090909090909
+1241,more than 500,12150.0,9799.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.19349794238683127
+1242,more than 500,4995.0,3299.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.3395395395395395
+1243,more than 500,1499.0,669.0,Poor,Home&Kitchen,Kitchen&HomeAppliances,-0.5537024683122082
+1244,more than 500,7506.0,5890.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.21529443112176924
+1245,more than 500,18000.0,9199.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.48894444444444446
+1246,more than 500,1099.0,351.0,Fair,Home&Kitchen,HomeStorage&Organization,-0.6806187443130118
+1247,more than 500,1900.0,899.0,Fair,Health&PersonalCare,HomeMedicalSupplies&Equipment,-0.5268421052631579
+1248,more than 500,1850.0,1349.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.2708108108108108
+1249,more than 500,9999.0,6236.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.3763376337633763
+1250,more than 500,3995.0,2742.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.31364205256570715
+1251,more than 500,1499.0,721.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5190126751167445
+1252,more than 500,3295.0,2903.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.11896813353566009
+1253,more than 500,2695.0,1656.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.3855287569573284
+1254,more than 500,2290.0,1399.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.3890829694323144
+1255,more than 500,3099.0,2079.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.3291384317521781
+1256,more than 500,1075.0,999.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.07069767441860465
+1257,more than 500,6999.0,3179.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5457922560365767
+1258,more than 500,2499.0,1049.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5802320928371348
+1259,more than 500,7290.0,3599.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5063100137174211
+1260,more than 500,5795.0,4799.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.1718723037100949
+1261,more than 500,3398.0,1699.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5
+1262,more than 500,1490.0,664.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5543624161073826
+1263,more than 500,1620.0,948.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4148148148148148
+1264,more than 500,1000.0,850.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.15
+1265,more than 500,640.0,600.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.0625
+1266,more than 500,4495.0,3711.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.17441601779755284
+1267,more than 500,2999.0,799.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.7335778592864288
+1268,more than 500,980.0,980.0,Good,Home&Kitchen,Kitchen&HomeAppliances,0.0
+1269,more than 500,899.0,351.0,Fair,Home&Kitchen,HomeStorage&Organization,-0.6095661846496107
+1270,between 50 and 500,499.0,229.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5410821643286573
+1271,more than 500,3995.0,3349.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.16170212765957448
+1272,more than 500,11500.0,5499.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5218260869565218
+1273,between 50 and 500,499.0,299.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.40080160320641284
+1274,more than 500,3550.0,2249.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.3664788732394366
+1275,more than 500,1599.0,699.0,Excellent,Home&Kitchen,Kitchen&HomeAppliances,-0.5628517823639775
+1276,more than 500,1499.0,1235.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.1761174116077385
+1277,more than 500,2999.0,1349.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5501833944648216
+1278,more than 500,11500.0,6800.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.40869565217391307
+1279,more than 500,2499.0,2099.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.1600640256102441
+1280,more than 500,1975.0,1699.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.13974683544303798
+1281,more than 500,1699.0,1069.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.37080635668040024
+1282,more than 500,2495.0,1349.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4593186372745491
+1283,more than 500,3500.0,1499.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5717142857142857
+1284,more than 500,4600.0,2092.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5452173913043479
+1285,more than 500,10295.0,3859.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.6251578436134045
+1286,more than 500,2199.0,499.0,Poor,Home&Kitchen,Kitchen&HomeAppliances,-0.7730786721236926
+1287,more than 500,2380.0,1804.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.24201680672268908
+1288,more than 500,8820.0,6525.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.2602040816326531
+1289,more than 500,24999.0,4999.0,Excellent,Home&Kitchen,Kitchen&HomeAppliances,-0.8000320012800513
+1290,more than 500,2400.0,1189.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5045833333333334
+1291,more than 500,4200.0,2590.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.38333333333333336
+1292,more than 500,1599.0,899.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4377736085053158
+1293,more than 500,2999.0,998.0,Excellent,Home&Kitchen,"Heating,Cooling&AirQuality",-0.6672224074691564
+1294,more than 500,1282.0,998.06,Good,Home&Kitchen,HomeStorage&Organization,-0.22148205928237133
+1295,more than 500,1990.0,1099.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4477386934673367
+1296,more than 500,9999.0,5999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.4000400040004
+1297,more than 500,11850.0,8886.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.250126582278481
+1298,more than 500,999.0,475.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5245245245245245
+1299,more than 500,20049.0,4995.0,Excellent,Home&Kitchen,Kitchen&HomeAppliances,-0.7508603920395032
+1300,more than 500,24850.0,13999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.4366599597585513
+1301,more than 500,16490.0,8499.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.48459672528805336
+1302,more than 500,975.0,949.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.02666666666666667
+1303,between 50 and 500,499.0,395.0,Fair,Home&Kitchen,HomeStorage&Organization,-0.20841683366733466
+1304,more than 500,635.0,635.0,Good,Home&Kitchen,Kitchen&HomeAppliances,0.0
+1305,more than 500,1390.0,717.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4841726618705036
+1306,more than 500,59900.0,27900.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5342237061769616
+1307,more than 500,670.0,649.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.03134328358208955
+1308,between 50 and 500,399.0,193.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5162907268170426
+1309,more than 500,2495.0,1299.0,Terrible,Home&Kitchen,"Heating,Cooling&AirQuality",-0.47935871743486974
+1310,more than 500,3390.0,2449.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.2775811209439528
+1311,more than 500,2499.0,1049.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5802320928371348
+1312,more than 500,4200.0,2399.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4288095238095238
+1313,more than 500,4495.0,2286.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4914349276974416
+1314,more than 500,2199.0,499.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.7730786721236926
+1315,more than 500,999.0,429.0,Poor,Home&Kitchen,Kitchen&HomeAppliances,-0.5705705705705706
+1316,more than 500,595.0,299.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.49747899159663866
+1317,more than 500,19990.0,5395.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.7301150575287644
+1318,more than 500,1010.0,559.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.44653465346534654
+1319,more than 500,1100.0,660.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4
+1320,more than 500,999.0,419.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5805805805805806
+1321,more than 500,10900.0,7349.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.3257798165137615
+1322,more than 500,4005.0,2899.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.2761548064918851
+1323,more than 500,3295.0,1799.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4540212443095599
+1324,more than 500,4650.0,1474.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.683010752688172
+1325,more than 500,24500.0,15999.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.3469795918367347
+1326,more than 500,6070.0,3645.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.39950576606260296
+1327,more than 500,999.0,375.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.6246246246246246
+1328,more than 500,3945.0,2976.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.24562737642585553
+1329,more than 500,1499.0,1099.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.266844563042028
+1330,more than 500,6700.0,2575.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.6156716417910447
+1331,more than 500,2800.0,1649.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4110714285714286
+1332,more than 500,1699.0,799.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5297233666862861
+1333,more than 500,970.0,765.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.211340206185567
+1334,more than 500,1500.0,999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.334
+1335,more than 500,1295.0,587.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5467181467181467
+1336,more than 500,23999.0,12609.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.47460310846285264
+1337,more than 500,850.0,699.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.1776470588235294
+1338,more than 500,6000.0,3799.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.36683333333333334
+1339,more than 500,1020.0,640.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.37254901960784315
+1340,more than 500,1999.0,979.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5102551275637819
+1341,more than 500,7445.0,5365.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.2793821356615178
+1342,more than 500,3500.0,3199.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.086
+1343,more than 500,1395.0,979.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.2982078853046595
+1344,more than 500,2199.0,929.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5775352432924057
+1345,more than 500,4330.0,3710.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.14318706697459585
+1346,more than 500,4295.0,2033.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5266589057043073
+1347,more than 500,18990.0,9495.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5
+1348,more than 500,12500.0,7799.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.37608
+1349,more than 500,2385.0,949.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.6020964360587002
+1350,more than 500,4890.0,2790.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4294478527607362
+1351,more than 500,1100.0,645.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.41363636363636364
+1352,more than 500,3899.0,2237.81,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4260553988202103
+1353,more than 500,16899.0,8699.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4852358127699864
+1354,more than 500,75990.0,42990.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.43426766679826295
+1355,more than 500,825.0,825.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,0.0
+1356,between 50 and 500,300.0,161.0,Poor,Home&Kitchen,Kitchen&HomeAppliances,-0.4633333333333333
+1357,more than 500,1499.0,697.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5350233488992662
+1358,more than 500,747.0,688.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.07898259705488621
+1359,more than 500,3999.0,2199.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.450112528132033
+1360,more than 500,11990.0,6850.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4286905754795663
+1361,more than 500,3799.0,2699.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.2895498815477757
+1362,more than 500,1999.0,899.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5502751375687844
+1363,more than 500,2999.0,1090.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.6365455151717239
+1364,more than 500,599.0,295.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5075125208681135
+1365,more than 500,1999.0,479.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.7603801900950475
+1366,more than 500,4849.0,2949.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.39183336770468136
+1367,more than 500,510.0,335.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.3431372549019608
+1368,between 50 and 500,499.0,293.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.41282565130260523
+1369,more than 500,1299.0,599.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5388760585065435
+1370,more than 500,999.0,499.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5005005005005005
+1371,more than 500,1190.0,849.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.2865546218487395
+1372,between 50 and 500,400.0,249.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.3775
+1373,more than 500,599.0,185.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.6911519198664441
+1374,more than 500,999.0,778.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.22122122122122123
+1375,more than 500,699.0,279.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.6008583690987125
+1376,more than 500,1499.0,215.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.85657104736491
+1377,more than 500,1295.0,889.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.31351351351351353
+1378,more than 500,4999.0,1449.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.7101420284056812
+1379,more than 500,2550.0,1190.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5333333333333333
+1380,more than 500,1950.0,1799.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.07743589743589743
+1381,more than 500,8478.0,6120.0,Excellent,Home&Kitchen,Kitchen&HomeAppliances,-0.2781316348195329
+1382,more than 500,3299.0,1799.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4546832373446499
+1383,more than 500,3895.0,2199.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.43543003851091144
+1384,more than 500,5495.0,3685.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.3293903548680619
+1385,more than 500,999.0,649.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.35035035035035034
+1386,more than 500,8995.0,8599.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.04402445803224014
+1387,more than 500,1599.0,1110.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.3058161350844278
+1388,more than 500,3500.0,1499.0,Excellent,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5717142857142857
+1389,more than 500,1999.0,759.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.6203101550775387
+1390,more than 500,3199.0,2669.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.16567677399187247
+1391,more than 500,1300.0,929.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.2853846153846154
+1392,between 50 and 500,399.0,199.0,Fair,Home&Kitchen,HomeStorage&Organization,-0.5012531328320802
+1393,more than 500,599.0,279.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5342237061769616
+1394,more than 500,999.0,549.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.45045045045045046
+1395,between 50 and 500,199.0,85.0,Good,Home&Kitchen,HomeStorage&Organization,-0.5728643216080402
+1396,more than 500,1299.0,499.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.6158583525789069
+1397,more than 500,7776.0,5865.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.24575617283950618
+1398,more than 500,2299.0,1260.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.451935624184428
+1399,more than 500,1500.0,1099.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.2673333333333333
+1400,more than 500,2590.0,1928.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.2555984555984556
+1401,more than 500,6299.0,3249.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4842038418796634
+1402,more than 500,1795.0,1199.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.332033426183844
+1403,more than 500,3190.0,1456.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5435736677115988
+1404,more than 500,4799.0,3349.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.302146280475099
+1405,more than 500,8999.0,4899.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.4556061784642738
+1406,more than 500,1899.0,1199.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.36861506055818855
+1407,more than 500,5799.0,3290.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.4326608035868253
+1408,more than 500,799.0,179.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.7759699624530664
+1409,between 50 and 500,300.0,149.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5033333333333333
+1410,more than 500,7200.0,5490.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.2375
+1411,between 50 and 500,389.0,379.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.02570694087403599
+1412,more than 500,13049.0,8699.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.3333588780749483
+1413,more than 500,5999.0,3041.67,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4929704950825137
+1414,more than 500,2400.0,1745.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.27291666666666664
+1415,more than 500,5295.0,3180.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.39943342776203966
+1416,more than 500,24999.0,4999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.8000320012800513
+1417,more than 500,799.0,390.0,Fair,Home&Kitchen,HomeStorage&Organization,-0.5118898623279099
+1418,more than 500,2999.0,1999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.33344448149383127
+1419,more than 500,2495.0,1624.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.34909819639278555
+1420,between 50 and 500,450.0,184.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5911111111111111
+1421,more than 500,999.0,445.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5545545545545546
+1422,more than 500,1690.0,699.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.5863905325443787
+1423,more than 500,3890.0,1601.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5884318766066838
+1424,between 50 and 500,260.0,231.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.11153846153846154
+1425,more than 500,599.0,369.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.38397328881469117
+1426,more than 500,1950.0,809.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5851282051282052
+1427,more than 500,2990.0,1199.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5989966555183946
+1428,more than 500,8073.0,6120.0,Excellent,Home&Kitchen,Kitchen&HomeAppliances,-0.241917502787068
+1429,more than 500,2599.0,1799.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.30781069642170067
+1430,more than 500,29999.0,18999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.3666788892963099
+1431,more than 500,2360.0,1999.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.15296610169491526
+1432,more than 500,11495.0,5999.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.4781209221400609
+1433,more than 500,4780.0,2599.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.45627615062761506
+1434,more than 500,2400.0,1199.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5004166666666666
+1435,between 50 and 500,249.0,219.0,Fair,Home&Kitchen,HomeStorage&Organization,-0.12048192771084337
+1436,more than 500,1199.0,799.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.3336113427856547
+1437,more than 500,10999.0,6199.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.43640330939176286
+1438,more than 500,10995.0,6790.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.3824465666211915
+1439,more than 500,3300.0,1982.84,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.39913939393939396
+1440,between 50 and 500,400.0,199.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5025
+1441,more than 500,1440.0,1180.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.18055555555555555
+1442,more than 500,3045.0,2199.0,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.27783251231527095
+1443,more than 500,3595.0,2999.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.16578581363004172
+1444,between 50 and 500,500.0,253.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.494
+1445,more than 500,799.0,499.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.37546933667083854
+1446,more than 500,1899.0,1149.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.3949447077409163
+1447,more than 500,799.0,457.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.42803504380475593
+1448,between 50 and 500,399.0,229.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.42606516290726815
+1449,more than 500,699.0,199.0,Poor,Home&Kitchen,Kitchen&HomeAppliances,-0.7153075822603719
+1450,more than 500,1999.0,899.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5502751375687844
+1451,more than 500,2199.0,1499.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.31832651205093226
+1452,more than 500,999.0,426.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.5735735735735735
+1453,more than 500,3290.0,2320.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.2948328267477204
+1454,more than 500,3098.0,1563.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.4954809554551323
+1455,more than 500,4990.0,3487.77,Good,Home&Kitchen,"Heating,Cooling&AirQuality",-0.30104809619238476
+1456,more than 500,1200.0,498.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.585
+1457,more than 500,2695.0,2695.0,Good,Home&Kitchen,Kitchen&HomeAppliances,0.0
+1458,more than 500,2299.0,949.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.58721183123097
+1459,more than 500,999.0,199.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.8008008008008008
+1460,more than 500,919.0,379.0,Fair,Home&Kitchen,Kitchen&HomeAppliances,-0.5875952121871599
+1461,more than 500,3045.0,2280.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.2512315270935961
+1462,more than 500,3080.0,2219.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.27954545454545454
+1463,more than 500,1890.0,1399.0,Fair,Home&Kitchen,"Heating,Cooling&AirQuality",-0.2597883597883598
+1464,more than 500,3690.0,2863.0,Good,Home&Kitchen,Kitchen&HomeAppliances,-0.22411924119241192
