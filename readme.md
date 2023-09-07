@@ -20,6 +20,6 @@ The movie quality is decreasing over time; on the other hand, the gross earnings
 
 **-- MUNNAR HOTELS DATA**
 
-![1694094226699](image/readme/1694094226699.png)
+![1694103590445](image/readme/1694103590445.png)
 
-![1694093586391](image/readme/1694093586391.png)
+![1694103578073](image/readme/1694103578073.png)
