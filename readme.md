@@ -10,8 +10,6 @@
 
 **This result is very interesting!**
 
-The movie quality is decreasing over time; on the other hand, the gross earnings are increasing.
-
 ![1693880530004](image/readme/1693880530004.png)
 
 
